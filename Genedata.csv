@@ -1,0 +1,2791 @@
+gene_name,reading_value,gender,race,Vital_status
+PSMB10,16.5468,female,black or african american,Alive
+PSMB10,8.8973,male,white,Alive
+PSMB10,6.8205,female,white,Alive
+PSMB10,4.9634,male,white,Alive
+PSMB10,4.8023,male,Unknown,Alive
+PSMB10,17.1838,female,asian,Alive
+PSMB10,6.812,female,white,Dead
+PSMB10,18.4031,female,black or african american,Alive
+PSMB10,2.531,female,white,Alive
+PSMB10,4.2994,female,black or african american,Alive
+PSMB10,4.2762,male,white,Alive
+PSMB10,3.6698,male,black or african american,Dead
+PSMB10,8.3487,male,white,Alive
+PSMB10,22.8874,female,white,Dead
+PSMB10,11.2865,female,white,Dead
+PSMB10,19.6401,female,white,Alive
+PSMB10,16.7607,male,white,Alive
+PSMB10,3.4517,female,black or african american,Dead
+PSMB10,3.1244,female,black or african american,Dead
+PSMB10,2.1608,female,white,Dead
+PSMB10,12.2571,female,white,Dead
+PSMB10,8.9278,female,white,Alive
+PSMB10,3.8629,male,white,Dead
+PSMB10,3.2056,male,Unknown,Alive
+PSMB10,28.8064,female,white,Dead
+PSMB10,7.1565,female,white,Dead
+PSMB10,6.7771,female,white,Dead
+PSMB10,8.6577,male,white,Alive
+PSMB10,14.6387,male,white,Dead
+PSMB10,2.8777,female,Unknown,Alive
+PSMB10,10.4799,female,white,Alive
+PSMB10,4.2445,female,white,Dead
+PSMB10,13.4115,male,white,Dead
+PSMB10,17.9688,male,white,Alive
+PSMB10,5.2955,male,Unknown,Dead
+PSMB10,1.7621,male,Unknown,Dead
+PSMB10,6.0777,male,white,Alive
+PSMB10,14.069,female,white,Dead
+PSMB10,5.5877,male,black or african american,Dead
+PSMB10,4.4866,male,white,Alive
+PSMB10,12.6948,male,white,Alive
+PSMB10,5.2668,male,Unknown,Alive
+PSMB10,9.3454,male,white,Alive
+PSMB10,6.2925,male,white,Alive
+PSMB10,10.0948,male,white,Dead
+PSMB10,12.8673,female,white,Alive
+PSMB10,6.337,female,native hawaiian or other pacific islander,Dead
+PSMB10,16.9716,female,Unknown,Dead
+PSMB10,4.6508,male,white,Alive
+PSMB10,11.5002,female,white,Alive
+PSMB10,7.4736,male,white,Dead
+PSMB10,9.3895,male,white,Alive
+PSMB10,7.6667,male,white,Dead
+PSMB10,20.1256,male,black or african american,Dead
+PSMB10,13.8167,female,white,Dead
+PSMB10,1.6564,male,white,Dead
+PSMB10,5.5572,female,white,Alive
+PSMB10,7.485,female,white,Alive
+PSMB10,4.161,male,black or african american,Dead
+PSMB10,9.215,male,white,Dead
+PSMB10,24.5459,male,white,Dead
+PSMB10,19.6926,female,black or african american,Alive
+PSMB10,4.6881,male,white,Dead
+PSMB10,12.4151,female,black or african american,Alive
+PSMB10,3.9956,male,Unknown,Dead
+PSMB10,3.1492,female,white,Dead
+PSMB10,5.8664,female,Unknown,Dead
+PSMB10,19.1114,female,white,Alive
+PSMB10,6.0974,male,white,Alive
+PSMB10,8.5761,male,white,Dead
+PSMB10,11.5065,female,black or african american,Dead
+PSMB10,8.4726,female,white,Dead
+PSMB10,4.0452,female,white,Dead
+PSMB10,18.9635,female,Unknown,Dead
+PSMB10,3.7961,female,white,Dead
+PSMB10,7.2943,male,white,Dead
+PSMB10,10.2232,male,white,Alive
+PSMB10,10.8639,male,white,Dead
+PSMB10,7.216,male,white,Dead
+PSMB10,14.2556,male,white,Alive
+PSMB10,13.8213,female,white,Alive
+PSMB10,3.472,female,white,Dead
+PSMB10,4.4205,male,white,Alive
+PSMB10,25.5416,male,Unknown,Alive
+PSMB10,15.1877,male,black or african american,Dead
+PSMB10,2.4004,male,black or african american,Dead
+PSMB10,3.2542,male,black or african american,Dead
+PSMB10,7.3695,female,white,Dead
+PSMB10,27.6497,male,Unknown,Alive
+PSMB10,8.6258,male,white,Alive
+PSMB10,20.2189,female,white,Alive
+PSMB10,13.7519,male,white,Dead
+PSMB10,25.54,male,white,Dead
+PSMB10,4.6474,male,white,Alive
+PSMB10,10.6303,male,Unknown,Alive
+PSMB10,38.4201,male,black or african american,Dead
+PSMB10,5.1192,male,white,Dead
+PSMB10,17.6389,female,white,Alive
+PSMB10,10.9839,male,black or african american,Dead
+PSMB10,17.1671,female,white,Dead
+PSMB10,15.4748,male,white,Dead
+PSMB10,25.9628,male,white,Dead
+PSMB10,4.6932,male,Unknown,Alive
+PSMB10,9.7384,female,white,Alive
+PSMB10,8.3446,male,white,Dead
+PSMB10,12.3895,female,white,Dead
+PSMB10,11.5367,male,white,Alive
+PSMB10,4.2661,female,native hawaiian or other pacific islander,Dead
+PSMB10,9.5791,male,white,Alive
+PSMB10,8.2409,male,white,Alive
+PSMB10,3.9837,male,white,Dead
+PSMB10,21.6375,male,white,Alive
+PSMB10,9.3909,male,white,Alive
+PSMB10,2.1849,male,white,Dead
+PSMB10,10.0521,male,white,Dead
+PSMB10,12.2055,male,white,Alive
+PSMB10,9.4948,male,black or african american,Alive
+PSMB10,35.056,female,white,Dead
+PSMB10,15.404,female,black or african american,Dead
+PSMB10,7.649,male,black or african american,Alive
+PSMB10,14.1656,female,white,Alive
+PSMB10,14.3251,male,white,Dead
+PSMB10,18.3778,male,white,Dead
+PSMB10,17.8873,female,white,Alive
+PSMB10,5.7477,female,black or african american,Alive
+PSMB10,9.3462,male,white,Alive
+PSMB10,8.6514,male,white,Alive
+PSMB10,7.5977,male,black or african american,Alive
+PSMB10,8.5009,female,white,Alive
+PSMB10,1.7403,male,white,Alive
+PSMB10,12.7821,male,white,Alive
+PSMB10,3.4648,male,white,Alive
+PSMB10,13.7461,male,white,Alive
+PSMB10,12.9347,male,white,Dead
+PSMB10,19.4621,female,white,Dead
+PSMB10,5.3112,male,white,Alive
+PSMB10,20.8459,female,white,Alive
+PSMB10,15.0611,male,white,Dead
+PSMB10,5.263,male,black or african american,Dead
+PSMB10,5.3038,male,white,Dead
+PSMB10,3.864,male,black or african american,Dead
+PSMB10,5.892,female,white,Alive
+PSMB10,5.67,male,white,Dead
+PSMB10,9.6012,female,white,Dead
+PSMB10,22.9976,female,white,Dead
+PSMB10,8.6584,female,white,Alive
+PSMB10,4.6014,male,black or african american,Alive
+PSMB10,9.4888,female,white,Dead
+PSMB10,7.3627,male,black or african american,Dead
+PSMB10,4.2984,male,white,Dead
+PSMB10,17.127,female,white,Alive
+PSMB10,2.178,female,white,Alive
+PSMB10,6.4896,male,white,Dead
+PSMB10,6.1015,female,white,Dead
+PSMB10,9.9848,male,white,Dead
+HLA-DQA1,66.8909,female,black or african american,Alive
+HLA-DQA1,18.5246,male,white,Alive
+HLA-DQA1,14.42,female,white,Alive
+HLA-DQA1,4.8,male,white,Alive
+HLA-DQA1,20.572,male,Unknown,Alive
+HLA-DQA1,53.6818,female,asian,Alive
+HLA-DQA1,42.5729,female,white,Dead
+HLA-DQA1,100.779,female,black or african american,Alive
+HLA-DQA1,5.3258,female,white,Alive
+HLA-DQA1,3.4739,female,black or african american,Alive
+HLA-DQA1,5.6059,male,white,Alive
+HLA-DQA1,5.1929,male,black or african american,Dead
+HLA-DQA1,1.7857,male,white,Alive
+HLA-DQA1,72.5228,female,white,Dead
+HLA-DQA1,38.1954,female,white,Dead
+HLA-DQA1,133.7151,female,white,Alive
+HLA-DQA1,61.9447,male,white,Alive
+HLA-DQA1,13.6487,female,black or african american,Dead
+HLA-DQA1,2.5111,female,black or african american,Dead
+HLA-DQA1,1.9543,female,white,Dead
+HLA-DQA1,43.1933,female,white,Dead
+HLA-DQA1,32.6474,female,white,Alive
+HLA-DQA1,10.4032,male,white,Dead
+HLA-DQA1,22.1669,male,Unknown,Alive
+HLA-DQA1,93.5887,female,white,Dead
+HLA-DQA1,7.6271,female,white,Dead
+HLA-DQA1,8.2175,female,white,Dead
+HLA-DQA1,49.827,male,white,Alive
+HLA-DQA1,40.2843,male,white,Dead
+HLA-DQA1,4.7586,female,Unknown,Alive
+HLA-DQA1,61.86,female,white,Alive
+HLA-DQA1,0.5582,female,white,Dead
+HLA-DQA1,63.1496,male,white,Dead
+HLA-DQA1,112.7482,male,white,Alive
+HLA-DQA1,5.4401,male,Unknown,Dead
+HLA-DQA1,0.6987,male,Unknown,Dead
+HLA-DQA1,24.9215,male,white,Alive
+HLA-DQA1,85.5762,female,white,Dead
+HLA-DQA1,33.7937,male,black or african american,Dead
+HLA-DQA1,11.8053,male,white,Alive
+HLA-DQA1,38.2733,male,white,Alive
+HLA-DQA1,13.1622,male,Unknown,Alive
+HLA-DQA1,69.2139,male,white,Alive
+HLA-DQA1,16.5264,male,white,Alive
+HLA-DQA1,34.1061,male,white,Dead
+HLA-DQA1,33.3082,female,white,Alive
+HLA-DQA1,11.6695,female,native hawaiian or other pacific islander,Dead
+HLA-DQA1,31.5684,female,Unknown,Dead
+HLA-DQA1,8.0102,male,white,Alive
+HLA-DQA1,40.4925,female,white,Alive
+HLA-DQA1,10.7642,male,white,Dead
+HLA-DQA1,12.9391,male,white,Alive
+HLA-DQA1,27.563,male,white,Dead
+HLA-DQA1,50.9888,male,black or african american,Dead
+HLA-DQA1,62.5907,female,white,Dead
+HLA-DQA1,0.9503,male,white,Dead
+HLA-DQA1,15.1174,female,white,Alive
+HLA-DQA1,18.1073,female,white,Alive
+HLA-DQA1,1.117,male,black or african american,Dead
+HLA-DQA1,19.3979,male,white,Dead
+HLA-DQA1,61.4888,male,white,Dead
+HLA-DQA1,4.4352,female,black or african american,Alive
+HLA-DQA1,5.0481,male,white,Dead
+HLA-DQA1,15.7309,female,black or african american,Alive
+HLA-DQA1,7.614,male,Unknown,Dead
+HLA-DQA1,5.1808,female,white,Dead
+HLA-DQA1,33.9953,female,Unknown,Dead
+HLA-DQA1,34.4002,female,white,Alive
+HLA-DQA1,18.4611,male,white,Alive
+HLA-DQA1,11.2525,male,white,Dead
+HLA-DQA1,38.0333,female,black or african american,Dead
+HLA-DQA1,29.9764,female,white,Dead
+HLA-DQA1,7.9732,female,white,Dead
+HLA-DQA1,110.5252,female,Unknown,Dead
+HLA-DQA1,10.5858,female,white,Dead
+HLA-DQA1,26.8153,male,white,Dead
+HLA-DQA1,46.4427,male,white,Alive
+HLA-DQA1,52.4709,male,white,Dead
+HLA-DQA1,13.3873,male,white,Dead
+HLA-DQA1,56.4604,male,white,Alive
+HLA-DQA1,33.3669,female,white,Alive
+HLA-DQA1,2.0582,female,white,Dead
+HLA-DQA1,14.295,male,white,Alive
+HLA-DQA1,87.5898,male,Unknown,Alive
+HLA-DQA1,66.3645,male,black or african american,Dead
+HLA-DQA1,0.9286,male,black or african american,Dead
+HLA-DQA1,1.8923,male,black or african american,Dead
+HLA-DQA1,17.954,female,white,Dead
+HLA-DQA1,123.0694,male,Unknown,Alive
+HLA-DQA1,8.7737,male,white,Alive
+HLA-DQA1,119.3626,female,white,Alive
+HLA-DQA1,20.1528,male,white,Dead
+HLA-DQA1,122.4212,male,white,Dead
+HLA-DQA1,6.2987,male,white,Alive
+HLA-DQA1,43.8744,male,Unknown,Alive
+HLA-DQA1,59.7412,male,black or african american,Dead
+HLA-DQA1,10.4088,male,white,Dead
+HLA-DQA1,50.808,female,white,Alive
+HLA-DQA1,17.4889,male,black or african american,Dead
+HLA-DQA1,16.8576,female,white,Dead
+HLA-DQA1,49.9074,male,white,Dead
+HLA-DQA1,221.9053,male,white,Dead
+HLA-DQA1,2.7828,male,Unknown,Alive
+HLA-DQA1,6.3613,female,white,Alive
+HLA-DQA1,14.3092,male,white,Dead
+HLA-DQA1,27.0512,female,white,Dead
+HLA-DQA1,27.2635,male,white,Alive
+HLA-DQA1,3.5616,female,native hawaiian or other pacific islander,Dead
+HLA-DQA1,26.002,male,white,Alive
+HLA-DQA1,5.1417,male,white,Alive
+HLA-DQA1,5.0998,male,white,Dead
+HLA-DQA1,111.2546,male,white,Alive
+HLA-DQA1,9.6132,male,white,Alive
+HLA-DQA1,1.076,male,white,Dead
+HLA-DQA1,28.3985,male,white,Dead
+HLA-DQA1,27.5539,male,white,Alive
+HLA-DQA1,23.4547,male,black or african american,Alive
+HLA-DQA1,57.421,female,white,Dead
+HLA-DQA1,17.1216,female,black or african american,Dead
+HLA-DQA1,72.7297,male,black or african american,Alive
+HLA-DQA1,46.264,female,white,Alive
+HLA-DQA1,42.9746,male,white,Dead
+HLA-DQA1,48.2597,male,white,Dead
+HLA-DQA1,32.889,female,white,Alive
+HLA-DQA1,29.9371,female,black or african american,Alive
+HLA-DQA1,9.1065,male,white,Alive
+HLA-DQA1,4.878,male,white,Alive
+HLA-DQA1,53.7461,male,black or african american,Alive
+HLA-DQA1,21.3184,female,white,Alive
+HLA-DQA1,1.4743,male,white,Alive
+HLA-DQA1,77.5683,male,white,Alive
+HLA-DQA1,2.2289,male,white,Alive
+HLA-DQA1,45.6366,male,white,Alive
+HLA-DQA1,69.0398,male,white,Dead
+HLA-DQA1,108.0328,female,white,Dead
+HLA-DQA1,20.785,male,white,Alive
+HLA-DQA1,111.1457,female,white,Alive
+HLA-DQA1,14.6531,male,white,Dead
+HLA-DQA1,11.8224,male,black or african american,Dead
+HLA-DQA1,9.3563,male,white,Dead
+HLA-DQA1,5.283,male,black or african american,Dead
+HLA-DQA1,4.1438,female,white,Alive
+HLA-DQA1,19.8955,male,white,Dead
+HLA-DQA1,14.2933,female,white,Dead
+HLA-DQA1,87.6721,female,white,Dead
+HLA-DQA1,32.9684,female,white,Alive
+HLA-DQA1,4.6931,male,black or african american,Alive
+HLA-DQA1,2.7648,female,white,Dead
+HLA-DQA1,39.5244,male,black or african american,Dead
+HLA-DQA1,3.0869,male,white,Dead
+HLA-DQA1,33.2484,female,white,Alive
+HLA-DQA1,10.6095,female,white,Alive
+HLA-DQA1,5.7297,male,white,Dead
+HLA-DQA1,14.1121,female,white,Dead
+HLA-DQA1,19.5682,male,white,Dead
+HLA-DRB1,980.4331,female,black or african american,Alive
+HLA-DRB1,209.8112,male,white,Alive
+HLA-DRB1,153.264,female,white,Alive
+HLA-DRB1,73.6191,male,white,Alive
+HLA-DRB1,255.6383,male,Unknown,Alive
+HLA-DRB1,724.8447,female,asian,Alive
+HLA-DRB1,640.2013,female,white,Dead
+HLA-DRB1,2524.0392,female,black or african american,Alive
+HLA-DRB1,68.1808,female,white,Alive
+HLA-DRB1,84.3338,female,black or african american,Alive
+HLA-DRB1,64.9824,male,white,Alive
+HLA-DRB1,103.4811,male,black or african american,Dead
+HLA-DRB1,33.8333,male,white,Alive
+HLA-DRB1,904.5707,female,white,Dead
+HLA-DRB1,596.6407,female,white,Dead
+HLA-DRB1,2724.1904,female,white,Alive
+HLA-DRB1,845.6781,male,white,Alive
+HLA-DRB1,195.3792,female,black or african american,Dead
+HLA-DRB1,42.6156,female,black or african american,Dead
+HLA-DRB1,156.2504,female,white,Dead
+HLA-DRB1,464.2085,female,white,Dead
+HLA-DRB1,596.1704,female,white,Alive
+HLA-DRB1,235.6917,male,white,Dead
+HLA-DRB1,202.4233,male,Unknown,Alive
+HLA-DRB1,964.6573,female,white,Dead
+HLA-DRB1,197.6045,female,white,Dead
+HLA-DRB1,120.8032,female,white,Dead
+HLA-DRB1,352.5963,male,white,Alive
+HLA-DRB1,1386.4524,male,white,Dead
+HLA-DRB1,62.2724,female,Unknown,Alive
+HLA-DRB1,544.7177,female,white,Alive
+HLA-DRB1,17.8887,female,white,Dead
+HLA-DRB1,1140.5794,male,white,Dead
+HLA-DRB1,1184.6324,male,white,Alive
+HLA-DRB1,100.0205,male,Unknown,Dead
+HLA-DRB1,22.1061,male,Unknown,Dead
+HLA-DRB1,273.1581,male,white,Alive
+HLA-DRB1,773.2038,female,white,Dead
+HLA-DRB1,406.6449,male,black or african american,Dead
+HLA-DRB1,119.1046,male,white,Alive
+HLA-DRB1,885.7802,male,white,Alive
+HLA-DRB1,118.4113,male,Unknown,Alive
+HLA-DRB1,878.4519,male,white,Alive
+HLA-DRB1,331.2725,male,white,Alive
+HLA-DRB1,338.5947,male,white,Dead
+HLA-DRB1,485.4576,female,white,Alive
+HLA-DRB1,189.7662,female,native hawaiian or other pacific islander,Dead
+HLA-DRB1,366.1166,female,Unknown,Dead
+HLA-DRB1,108.6612,male,white,Alive
+HLA-DRB1,408.2936,female,white,Alive
+HLA-DRB1,224.3141,male,white,Dead
+HLA-DRB1,234.8999,male,white,Alive
+HLA-DRB1,465.4945,male,white,Dead
+HLA-DRB1,534.1758,male,black or african american,Dead
+HLA-DRB1,1507.5247,female,white,Dead
+HLA-DRB1,18.7394,male,white,Dead
+HLA-DRB1,319.8625,female,white,Alive
+HLA-DRB1,334.4217,female,white,Alive
+HLA-DRB1,34.8653,male,black or african american,Dead
+HLA-DRB1,515.0424,male,white,Dead
+HLA-DRB1,571.6916,male,white,Dead
+HLA-DRB1,148.9926,female,black or african american,Alive
+HLA-DRB1,79.9107,male,white,Dead
+HLA-DRB1,529.0304,female,black or african american,Alive
+HLA-DRB1,112.5084,male,Unknown,Dead
+HLA-DRB1,76.1518,female,white,Dead
+HLA-DRB1,378.2836,female,Unknown,Dead
+HLA-DRB1,389.329,female,white,Alive
+HLA-DRB1,198.7155,male,white,Alive
+HLA-DRB1,213.3437,male,white,Dead
+HLA-DRB1,483.8749,female,black or african american,Dead
+HLA-DRB1,630.9482,female,white,Dead
+HLA-DRB1,159.2501,female,white,Dead
+HLA-DRB1,2898.8586,female,Unknown,Dead
+HLA-DRB1,102.0845,female,white,Dead
+HLA-DRB1,451.6828,male,white,Dead
+HLA-DRB1,797.5136,male,white,Alive
+HLA-DRB1,509.1908,male,white,Dead
+HLA-DRB1,285.2204,male,white,Dead
+HLA-DRB1,873.2815,male,white,Alive
+HLA-DRB1,267.4868,female,white,Alive
+HLA-DRB1,31.0279,female,white,Dead
+HLA-DRB1,268.5089,male,white,Alive
+HLA-DRB1,2826.4067,male,Unknown,Alive
+HLA-DRB1,1537.2993,male,black or african american,Dead
+HLA-DRB1,17.5863,male,black or african american,Dead
+HLA-DRB1,63.2568,male,black or african american,Dead
+HLA-DRB1,162.202,female,white,Dead
+HLA-DRB1,2486.7892,male,Unknown,Alive
+HLA-DRB1,182.7716,male,white,Alive
+HLA-DRB1,2311.8122,female,white,Alive
+HLA-DRB1,330.8874,male,white,Dead
+HLA-DRB1,1705.9301,male,white,Dead
+HLA-DRB1,118.3617,male,white,Alive
+HLA-DRB1,430.8553,male,Unknown,Alive
+HLA-DRB1,859.8047,male,black or african american,Dead
+HLA-DRB1,123.9663,male,white,Dead
+HLA-DRB1,502.5302,female,white,Alive
+HLA-DRB1,349.4235,male,black or african american,Dead
+HLA-DRB1,206.9302,female,white,Dead
+HLA-DRB1,788.9464,male,white,Dead
+HLA-DRB1,5366.391,male,white,Dead
+HLA-DRB1,46.59,male,Unknown,Alive
+HLA-DRB1,155.9848,female,white,Alive
+HLA-DRB1,230.315,male,white,Dead
+HLA-DRB1,512.3943,female,white,Dead
+HLA-DRB1,478.1993,male,white,Alive
+HLA-DRB1,73.5393,female,native hawaiian or other pacific islander,Dead
+HLA-DRB1,488.9621,male,white,Alive
+HLA-DRB1,203.7358,male,white,Alive
+HLA-DRB1,95.4218,male,white,Dead
+HLA-DRB1,3103.2215,male,white,Alive
+HLA-DRB1,184.5582,male,white,Alive
+HLA-DRB1,26.702,male,white,Dead
+HLA-DRB1,731.5835,male,white,Dead
+HLA-DRB1,295.6122,male,white,Alive
+HLA-DRB1,281.2961,male,black or african american,Alive
+HLA-DRB1,998.8812,female,white,Dead
+HLA-DRB1,501.3031,female,black or african american,Dead
+HLA-DRB1,1159.5863,male,black or african american,Alive
+HLA-DRB1,523.5118,female,white,Alive
+HLA-DRB1,540.3967,male,white,Dead
+HLA-DRB1,762.801,male,white,Dead
+HLA-DRB1,603.648,female,white,Alive
+HLA-DRB1,361.9858,female,black or african american,Alive
+HLA-DRB1,159.6162,male,white,Alive
+HLA-DRB1,89.704,male,white,Alive
+HLA-DRB1,1014.7325,male,black or african american,Alive
+HLA-DRB1,361.0377,female,white,Alive
+HLA-DRB1,29.2167,male,white,Alive
+HLA-DRB1,637.03,male,white,Alive
+HLA-DRB1,46.3344,male,white,Alive
+HLA-DRB1,917.4207,male,white,Alive
+HLA-DRB1,792.5793,male,white,Dead
+HLA-DRB1,1384.5271,female,white,Dead
+HLA-DRB1,327.5119,male,white,Alive
+HLA-DRB1,1141.8524,female,white,Alive
+HLA-DRB1,464.1593,male,white,Dead
+HLA-DRB1,403.3737,male,black or african american,Dead
+HLA-DRB1,147.8128,male,white,Dead
+HLA-DRB1,69.6255,male,black or african american,Dead
+HLA-DRB1,68.7292,female,white,Alive
+HLA-DRB1,267.9343,male,white,Dead
+HLA-DRB1,444.4965,female,white,Dead
+HLA-DRB1,1100.0487,female,white,Dead
+HLA-DRB1,313.1472,female,white,Alive
+HLA-DRB1,80.4455,male,black or african american,Alive
+HLA-DRB1,145.6542,female,white,Dead
+HLA-DRB1,474.0464,male,black or african american,Dead
+HLA-DRB1,49.7259,male,white,Dead
+HLA-DRB1,507.8385,female,white,Alive
+HLA-DRB1,94.401,female,white,Alive
+HLA-DRB1,117.8528,male,white,Dead
+HLA-DRB1,226.3557,female,white,Dead
+HLA-DRB1,307.0039,male,white,Dead
+CMKLR1,17.0372,female,black or african american,Alive
+CMKLR1,14.5657,male,white,Alive
+CMKLR1,10.5377,female,white,Alive
+CMKLR1,3.3161,male,white,Alive
+CMKLR1,6.6888,male,Unknown,Alive
+CMKLR1,16.9963,female,asian,Alive
+CMKLR1,1.6368,female,white,Dead
+CMKLR1,5.9193,female,black or african american,Alive
+CMKLR1,0.9959,female,white,Alive
+CMKLR1,2.3961,female,black or african american,Alive
+CMKLR1,1.9704,male,white,Alive
+CMKLR1,1.5319,male,black or african american,Dead
+CMKLR1,0.5288,male,white,Alive
+CMKLR1,22.3955,female,white,Dead
+CMKLR1,26.7919,female,white,Dead
+CMKLR1,14.2332,female,white,Alive
+CMKLR1,36.164,male,white,Alive
+CMKLR1,4.3336,female,black or african american,Dead
+CMKLR1,1.3034,female,black or african american,Dead
+CMKLR1,1.8425,female,white,Dead
+CMKLR1,15.1165,female,white,Dead
+CMKLR1,12.5246,female,white,Alive
+CMKLR1,2.9747,male,white,Dead
+CMKLR1,6.5077,male,Unknown,Alive
+CMKLR1,23.6028,female,white,Dead
+CMKLR1,3.6842,female,white,Dead
+CMKLR1,8.8043,female,white,Dead
+CMKLR1,9.164,male,white,Alive
+CMKLR1,16.1775,male,white,Dead
+CMKLR1,3.1234,female,Unknown,Alive
+CMKLR1,11.8874,female,white,Alive
+CMKLR1,0.4018,female,white,Dead
+CMKLR1,3.6968,male,white,Dead
+CMKLR1,10.7657,male,white,Alive
+CMKLR1,2.8294,male,Unknown,Dead
+CMKLR1,0.596,male,Unknown,Dead
+CMKLR1,5.7671,male,white,Alive
+CMKLR1,22.3657,female,white,Dead
+CMKLR1,4.5072,male,black or african american,Dead
+CMKLR1,4.8152,male,white,Alive
+CMKLR1,28.947,male,white,Alive
+CMKLR1,8.9492,male,Unknown,Alive
+CMKLR1,7.1327,male,white,Alive
+CMKLR1,4.3061,male,white,Alive
+CMKLR1,9.4469,male,white,Dead
+CMKLR1,9.7602,female,white,Alive
+CMKLR1,8.5517,female,native hawaiian or other pacific islander,Dead
+CMKLR1,3.7841,female,Unknown,Dead
+CMKLR1,3.9566,male,white,Alive
+CMKLR1,7.2107,female,white,Alive
+CMKLR1,6.7168,male,white,Dead
+CMKLR1,7.0957,male,white,Alive
+CMKLR1,4.163,male,white,Dead
+CMKLR1,7.0986,male,black or african american,Dead
+CMKLR1,13.896,female,white,Dead
+CMKLR1,0.0582,male,white,Dead
+CMKLR1,7.4971,female,white,Alive
+CMKLR1,11.3389,female,white,Alive
+CMKLR1,3.1752,male,black or african american,Dead
+CMKLR1,8.6904,male,white,Dead
+CMKLR1,15.0297,male,white,Dead
+CMKLR1,30.9003,female,black or african american,Alive
+CMKLR1,5.4127,male,white,Dead
+CMKLR1,6.0769,female,black or african american,Alive
+CMKLR1,7.1377,male,Unknown,Dead
+CMKLR1,1.1651,female,white,Dead
+CMKLR1,5.8264,female,Unknown,Dead
+CMKLR1,11.5877,female,white,Alive
+CMKLR1,6.9578,male,white,Alive
+CMKLR1,9.6565,male,white,Dead
+CMKLR1,14.8771,female,black or african american,Dead
+CMKLR1,9.7595,female,white,Dead
+CMKLR1,4.6701,female,white,Dead
+CMKLR1,12.7327,female,Unknown,Dead
+CMKLR1,9.0466,female,white,Dead
+CMKLR1,8.3636,male,white,Dead
+CMKLR1,12.9333,male,white,Alive
+CMKLR1,9.9785,male,white,Dead
+CMKLR1,7.6022,male,white,Dead
+CMKLR1,9.2105,male,white,Alive
+CMKLR1,10.0482,female,white,Alive
+CMKLR1,1.2784,female,white,Dead
+CMKLR1,6.9349,male,white,Alive
+CMKLR1,7.8236,male,Unknown,Alive
+CMKLR1,11.1578,male,black or african american,Dead
+CMKLR1,1.8083,male,black or african american,Dead
+CMKLR1,2.4265,male,black or african american,Dead
+CMKLR1,5.4814,female,white,Dead
+CMKLR1,17.5262,male,Unknown,Alive
+CMKLR1,13.5569,male,white,Alive
+CMKLR1,18.927,female,white,Alive
+CMKLR1,17.8499,male,white,Dead
+CMKLR1,13.4642,male,white,Dead
+CMKLR1,2.6759,male,white,Alive
+CMKLR1,5.3736,male,Unknown,Alive
+CMKLR1,26.5456,male,black or african american,Dead
+CMKLR1,3.2923,male,white,Dead
+CMKLR1,11.4365,female,white,Alive
+CMKLR1,10.5349,male,black or african american,Dead
+CMKLR1,12.7691,female,white,Dead
+CMKLR1,15.6651,male,white,Dead
+CMKLR1,16.3839,male,white,Dead
+CMKLR1,0.5262,male,Unknown,Alive
+CMKLR1,1.9692,female,white,Alive
+CMKLR1,5.5621,male,white,Dead
+CMKLR1,11.559,female,white,Dead
+CMKLR1,24.4094,male,white,Alive
+CMKLR1,2.7219,female,native hawaiian or other pacific islander,Dead
+CMKLR1,9.7207,male,white,Alive
+CMKLR1,6.5015,male,white,Alive
+CMKLR1,2.7982,male,white,Dead
+CMKLR1,8.2896,male,white,Alive
+CMKLR1,7.4478,male,white,Alive
+CMKLR1,1.2859,male,white,Dead
+CMKLR1,19.4104,male,white,Dead
+CMKLR1,3.8667,male,white,Alive
+CMKLR1,8.4552,male,black or african american,Alive
+CMKLR1,31.1105,female,white,Dead
+CMKLR1,10.4648,female,black or african american,Dead
+CMKLR1,18.6237,male,black or african american,Alive
+CMKLR1,12.0261,female,white,Alive
+CMKLR1,13.6513,male,white,Dead
+CMKLR1,12.5644,male,white,Dead
+CMKLR1,7.7779,female,white,Alive
+CMKLR1,17.1403,female,black or african american,Alive
+CMKLR1,5.0695,male,white,Alive
+CMKLR1,6.2542,male,white,Alive
+CMKLR1,9.8373,male,black or african american,Alive
+CMKLR1,13.199,female,white,Alive
+CMKLR1,1.9115,male,white,Alive
+CMKLR1,11.8437,male,white,Alive
+CMKLR1,2.5546,male,white,Alive
+CMKLR1,13.5994,male,white,Alive
+CMKLR1,20.2289,male,white,Dead
+CMKLR1,34.1294,female,white,Dead
+CMKLR1,2.289,male,white,Alive
+CMKLR1,10.6403,female,white,Alive
+CMKLR1,21.1084,male,white,Dead
+CMKLR1,9.0268,male,black or african american,Dead
+CMKLR1,4.6748,male,white,Dead
+CMKLR1,2.257,male,black or african american,Dead
+CMKLR1,2.8396,female,white,Alive
+CMKLR1,4.6185,male,white,Dead
+CMKLR1,13.6744,female,white,Dead
+CMKLR1,18.3662,female,white,Dead
+CMKLR1,4.0358,female,white,Alive
+CMKLR1,4.2863,male,black or african american,Alive
+CMKLR1,13.882,female,white,Dead
+CMKLR1,9.1594,male,black or african american,Dead
+CMKLR1,3.0493,male,white,Dead
+CMKLR1,21.9055,female,white,Alive
+CMKLR1,1.2501,female,white,Alive
+CMKLR1,2.1745,male,white,Dead
+CMKLR1,6.2505,female,white,Dead
+CMKLR1,7.766,male,white,Dead
+HLA-E,635.6938,female,black or african american,Alive
+HLA-E,209.5868,male,white,Alive
+HLA-E,153.5966,female,white,Alive
+HLA-E,136.7394,male,white,Alive
+HLA-E,93.6159,male,Unknown,Alive
+HLA-E,466.011,female,asian,Alive
+HLA-E,265.9618,female,white,Dead
+HLA-E,735.0043,female,black or african american,Alive
+HLA-E,75.0249,female,white,Alive
+HLA-E,33.4253,female,black or african american,Alive
+HLA-E,56.6912,male,white,Alive
+HLA-E,80.6542,male,black or african american,Dead
+HLA-E,685.9867,male,white,Alive
+HLA-E,589.0069,female,white,Dead
+HLA-E,475.7842,female,white,Dead
+HLA-E,1051.5047,female,white,Alive
+HLA-E,525.1008,male,white,Alive
+HLA-E,127.7289,female,black or african american,Dead
+HLA-E,92.6503,female,black or african american,Dead
+HLA-E,53.1457,female,white,Dead
+HLA-E,298.6035,female,white,Dead
+HLA-E,344.9919,female,white,Alive
+HLA-E,375.7145,male,white,Dead
+HLA-E,89.1038,male,Unknown,Alive
+HLA-E,545.7653,female,white,Dead
+HLA-E,255.7226,female,white,Dead
+HLA-E,132.0406,female,white,Dead
+HLA-E,273.4246,male,white,Alive
+HLA-E,804.68,male,white,Dead
+HLA-E,75.8805,female,Unknown,Alive
+HLA-E,330.2284,female,white,Alive
+HLA-E,109.7437,female,white,Dead
+HLA-E,605.1948,male,white,Dead
+HLA-E,381.515,male,white,Alive
+HLA-E,159.7065,male,Unknown,Dead
+HLA-E,38.2771,male,Unknown,Dead
+HLA-E,252.8391,male,white,Alive
+HLA-E,388.8568,female,white,Dead
+HLA-E,167.7584,male,black or african american,Dead
+HLA-E,56.6114,male,white,Alive
+HLA-E,507.4572,male,white,Alive
+HLA-E,91.9726,male,Unknown,Alive
+HLA-E,360.7931,male,white,Alive
+HLA-E,206.7353,male,white,Alive
+HLA-E,228.406,male,white,Dead
+HLA-E,421.2442,female,white,Alive
+HLA-E,153.2847,female,native hawaiian or other pacific islander,Dead
+HLA-E,246.1001,female,Unknown,Dead
+HLA-E,99.6292,male,white,Alive
+HLA-E,233.896,female,white,Alive
+HLA-E,187.5174,male,white,Dead
+HLA-E,217.3113,male,white,Alive
+HLA-E,281.9343,male,white,Dead
+HLA-E,495.8502,male,black or african american,Dead
+HLA-E,577.3245,female,white,Dead
+HLA-E,26.185,male,white,Dead
+HLA-E,153.8544,female,white,Alive
+HLA-E,286.0919,female,white,Alive
+HLA-E,84.9345,male,black or african american,Dead
+HLA-E,474.5077,male,white,Dead
+HLA-E,464.4415,male,white,Dead
+HLA-E,930.9618,female,black or african american,Alive
+HLA-E,61.4173,male,white,Dead
+HLA-E,611.0092,female,black or african american,Alive
+HLA-E,118.8962,male,Unknown,Dead
+HLA-E,72.8637,female,white,Dead
+HLA-E,173.6693,female,Unknown,Dead
+HLA-E,485.3204,female,white,Alive
+HLA-E,134.9771,male,white,Alive
+HLA-E,279.3958,male,white,Dead
+HLA-E,353.3869,female,black or african american,Dead
+HLA-E,307.1561,female,white,Dead
+HLA-E,86.7247,female,white,Dead
+HLA-E,752.1872,female,Unknown,Dead
+HLA-E,68.8369,female,white,Dead
+HLA-E,161.4172,male,white,Dead
+HLA-E,459.162,male,white,Alive
+HLA-E,216.9147,male,white,Dead
+HLA-E,175.3243,male,white,Dead
+HLA-E,537.8516,male,white,Alive
+HLA-E,191.5836,female,white,Alive
+HLA-E,62.3722,female,white,Dead
+HLA-E,127.5307,male,white,Alive
+HLA-E,856.6348,male,Unknown,Alive
+HLA-E,406.4261,male,black or african american,Dead
+HLA-E,41.9264,male,black or african american,Dead
+HLA-E,79.4464,male,black or african american,Dead
+HLA-E,182.866,female,white,Dead
+HLA-E,1150.3836,male,Unknown,Alive
+HLA-E,271.932,male,white,Alive
+HLA-E,763.0662,female,white,Alive
+HLA-E,293.5749,male,white,Dead
+HLA-E,869.6095,male,white,Dead
+HLA-E,69.4942,male,white,Alive
+HLA-E,280.1488,male,Unknown,Alive
+HLA-E,587.6958,male,black or african american,Dead
+HLA-E,86.1209,male,white,Dead
+HLA-E,299.0225,female,white,Alive
+HLA-E,297.1144,male,black or african american,Dead
+HLA-E,351.6526,female,white,Dead
+HLA-E,664.2962,male,white,Dead
+HLA-E,1343.1018,male,white,Dead
+HLA-E,74.5611,male,Unknown,Alive
+HLA-E,703.0924,female,white,Alive
+HLA-E,266.49,male,white,Dead
+HLA-E,275.0696,female,white,Dead
+HLA-E,608.9867,male,white,Alive
+HLA-E,186.5988,female,native hawaiian or other pacific islander,Dead
+HLA-E,180.0805,male,white,Alive
+HLA-E,173.3808,male,white,Alive
+HLA-E,140.3128,male,white,Dead
+HLA-E,792.1365,male,white,Alive
+HLA-E,477.852,male,white,Alive
+HLA-E,56.917,male,white,Dead
+HLA-E,339.6091,male,white,Dead
+HLA-E,388.4974,male,white,Alive
+HLA-E,197.2436,male,black or african american,Alive
+HLA-E,968.9295,female,white,Dead
+HLA-E,424.1804,female,black or african american,Dead
+HLA-E,317.2023,male,black or african american,Alive
+HLA-E,474.9988,female,white,Alive
+HLA-E,428.572,male,white,Dead
+HLA-E,635.6895,male,white,Dead
+HLA-E,747.8543,female,white,Alive
+HLA-E,167.6276,female,black or african american,Alive
+HLA-E,182.3731,male,white,Alive
+HLA-E,286.9051,male,white,Alive
+HLA-E,807.3242,male,black or african american,Alive
+HLA-E,339.763,female,white,Alive
+HLA-E,32.5582,male,white,Alive
+HLA-E,280.1276,male,white,Alive
+HLA-E,70.8047,male,white,Alive
+HLA-E,456.7663,male,white,Alive
+HLA-E,491.621,male,white,Dead
+HLA-E,595.2598,female,white,Dead
+HLA-E,201.217,male,white,Alive
+HLA-E,646.8555,female,white,Alive
+HLA-E,617.0348,male,white,Dead
+HLA-E,184.7488,male,black or african american,Dead
+HLA-E,88.9244,male,white,Dead
+HLA-E,64.5251,male,black or african american,Dead
+HLA-E,108.6978,female,white,Alive
+HLA-E,88.297,male,white,Dead
+HLA-E,207.7193,female,white,Dead
+HLA-E,628.9415,female,white,Dead
+HLA-E,179.4392,female,white,Alive
+HLA-E,92.5854,male,black or african american,Alive
+HLA-E,208.6211,female,white,Dead
+HLA-E,279.3893,male,black or african american,Dead
+HLA-E,92.7867,male,white,Dead
+HLA-E,626.3487,female,white,Alive
+HLA-E,91.5791,female,white,Alive
+HLA-E,78.3988,male,white,Dead
+HLA-E,136.2253,female,white,Dead
+HLA-E,262.0092,male,white,Dead
+NKG7,32.3699,female,black or african american,Alive
+NKG7,8.3016,male,white,Alive
+NKG7,13.1616,female,white,Alive
+NKG7,6.0244,male,white,Alive
+NKG7,10.6383,male,Unknown,Alive
+NKG7,25.8815,female,asian,Alive
+NKG7,6.4401,female,white,Dead
+NKG7,11.1055,female,black or african american,Alive
+NKG7,6.1729,female,white,Alive
+NKG7,2.0901,female,black or african american,Alive
+NKG7,6.6458,male,white,Alive
+NKG7,1.5052,male,black or african american,Dead
+NKG7,2.1246,male,white,Alive
+NKG7,77.3589,female,white,Dead
+NKG7,15.9809,female,white,Dead
+NKG7,16.4083,female,white,Alive
+NKG7,41.7842,male,white,Alive
+NKG7,8.5175,female,black or african american,Dead
+NKG7,2.3315,female,black or african american,Dead
+NKG7,0.9809,female,white,Dead
+NKG7,67.0428,female,white,Dead
+NKG7,21.8854,female,white,Alive
+NKG7,20.8007,male,white,Dead
+NKG7,1.8865,male,Unknown,Alive
+NKG7,114.2846,female,white,Dead
+NKG7,2.8934,female,white,Dead
+NKG7,28.4971,female,white,Dead
+NKG7,24.5889,male,white,Alive
+NKG7,27.5297,male,white,Dead
+NKG7,2.2133,female,Unknown,Alive
+NKG7,9.4944,female,white,Alive
+NKG7,1.236,female,white,Dead
+NKG7,25.0795,male,white,Dead
+NKG7,49.9158,male,white,Alive
+NKG7,4.244,male,Unknown,Dead
+NKG7,1.1111,male,Unknown,Dead
+NKG7,6.2657,male,white,Alive
+NKG7,103.285,female,white,Dead
+NKG7,17.9301,male,black or african american,Dead
+NKG7,9.531,male,white,Alive
+NKG7,8.2815,male,white,Alive
+NKG7,4.8327,male,Unknown,Alive
+NKG7,9.6537,male,white,Alive
+NKG7,1.307,male,white,Alive
+NKG7,17.4297,male,white,Dead
+NKG7,14.6113,female,white,Alive
+NKG7,8.6774,female,native hawaiian or other pacific islander,Dead
+NKG7,23.3896,female,Unknown,Dead
+NKG7,4.0181,male,white,Alive
+NKG7,62.4456,female,white,Alive
+NKG7,9.0008,male,white,Dead
+NKG7,11.2522,male,white,Alive
+NKG7,13.6537,male,white,Dead
+NKG7,27.3919,male,black or african american,Dead
+NKG7,12.0381,female,white,Dead
+NKG7,0.5371,male,white,Dead
+NKG7,19.6221,female,white,Alive
+NKG7,3.0389,female,white,Alive
+NKG7,5.3982,male,black or african american,Dead
+NKG7,20.4419,male,white,Dead
+NKG7,97.1976,male,white,Dead
+NKG7,3.5214,female,black or african american,Alive
+NKG7,8.79,male,white,Dead
+NKG7,4.6494,female,black or african american,Alive
+NKG7,14.6371,male,Unknown,Dead
+NKG7,2.6795,female,white,Dead
+NKG7,10.5371,female,Unknown,Dead
+NKG7,44.1918,female,white,Alive
+NKG7,8.7265,male,white,Alive
+NKG7,11.8061,male,white,Dead
+NKG7,26.8128,female,black or african american,Dead
+NKG7,7.1328,female,white,Dead
+NKG7,2.0171,female,white,Dead
+NKG7,13.8859,female,Unknown,Dead
+NKG7,47.7875,female,white,Dead
+NKG7,13.9364,male,white,Dead
+NKG7,17.6708,male,white,Alive
+NKG7,12.5661,male,white,Dead
+NKG7,9.3424,male,white,Dead
+NKG7,54.3021,male,white,Alive
+NKG7,20.0457,female,white,Alive
+NKG7,0.8674,female,white,Dead
+NKG7,9.8854,male,white,Alive
+NKG7,9.2926,male,Unknown,Alive
+NKG7,12.6642,male,black or african american,Dead
+NKG7,1.8011,male,black or african american,Dead
+NKG7,9.9683,male,black or african american,Dead
+NKG7,9.3376,female,white,Dead
+NKG7,34.2418,male,Unknown,Alive
+NKG7,20.5152,male,white,Alive
+NKG7,14.1778,female,white,Alive
+NKG7,24.7489,male,white,Dead
+NKG7,11.7997,male,white,Dead
+NKG7,3.4713,male,white,Alive
+NKG7,18.6056,male,Unknown,Alive
+NKG7,163.9434,male,black or african american,Dead
+NKG7,4.9223,male,white,Dead
+NKG7,100.0205,female,white,Alive
+NKG7,26.953,male,black or african american,Dead
+NKG7,18.1849,female,white,Dead
+NKG7,20.6154,male,white,Dead
+NKG7,23.8845,male,white,Dead
+NKG7,5.3775,male,Unknown,Alive
+NKG7,12.9099,female,white,Alive
+NKG7,25.7551,male,white,Dead
+NKG7,10.1455,female,white,Dead
+NKG7,25.916,male,white,Alive
+NKG7,1.8281,female,native hawaiian or other pacific islander,Dead
+NKG7,11.7674,male,white,Alive
+NKG7,6.5395,male,white,Alive
+NKG7,3.0812,male,white,Dead
+NKG7,10.9418,male,white,Alive
+NKG7,12.761,male,white,Alive
+NKG7,1.9614,male,white,Dead
+NKG7,12.0924,male,white,Dead
+NKG7,42.7943,male,white,Alive
+NKG7,17.6033,male,black or african american,Alive
+NKG7,21.7281,female,white,Dead
+NKG7,36.9653,female,black or african american,Dead
+NKG7,16.5636,male,black or african american,Alive
+NKG7,39.1807,female,white,Alive
+NKG7,79.574,male,white,Dead
+NKG7,32.1274,male,white,Dead
+NKG7,32.8404,female,white,Alive
+NKG7,52.7543,female,black or african american,Alive
+NKG7,12.7531,male,white,Alive
+NKG7,8.045,male,white,Alive
+NKG7,14.6281,male,black or african american,Alive
+NKG7,17.0614,female,white,Alive
+NKG7,1.1654,male,white,Alive
+NKG7,84.7196,male,white,Alive
+NKG7,2.2586,male,white,Alive
+NKG7,22.5311,male,white,Alive
+NKG7,25.5647,male,white,Dead
+NKG7,115.1766,female,white,Dead
+NKG7,3.9376,male,white,Alive
+NKG7,47.6647,female,white,Alive
+NKG7,9.9712,male,white,Dead
+NKG7,16.899,male,black or african american,Dead
+NKG7,15.2007,male,white,Dead
+NKG7,12.6173,male,black or african american,Dead
+NKG7,1.3499,female,white,Alive
+NKG7,42.4676,male,white,Dead
+NKG7,10.643,female,white,Dead
+NKG7,38.4956,female,white,Dead
+NKG7,5.6976,female,white,Alive
+NKG7,11.3473,male,black or african american,Alive
+NKG7,7.6761,female,white,Dead
+NKG7,13.831,male,black or african american,Dead
+NKG7,2.914,male,white,Dead
+NKG7,36.3439,female,white,Alive
+NKG7,4.845,female,white,Alive
+NKG7,4.6725,male,white,Dead
+NKG7,8.7052,female,white,Dead
+NKG7,21.4721,male,white,Dead
+CCL5,127.0374,female,black or african american,Alive
+CCL5,8.601,male,white,Alive
+CCL5,6.7962,female,white,Alive
+CCL5,11.6932,male,white,Alive
+CCL5,7.8966,male,Unknown,Alive
+CCL5,33.463,female,asian,Alive
+CCL5,40.7056,female,white,Dead
+CCL5,29.388,female,black or african american,Alive
+CCL5,6.3684,female,white,Alive
+CCL5,1.2842,female,black or african american,Alive
+CCL5,12.4456,male,white,Alive
+CCL5,3.4178,male,black or african american,Dead
+CCL5,5.9966,male,white,Alive
+CCL5,56.7884,female,white,Dead
+CCL5,31.1819,female,white,Dead
+CCL5,34.112,female,white,Alive
+CCL5,36.6844,male,white,Alive
+CCL5,6.7223,female,black or african american,Dead
+CCL5,2.7952,female,black or african american,Dead
+CCL5,1.8751,female,white,Dead
+CCL5,72.473,female,white,Dead
+CCL5,21.8875,female,white,Alive
+CCL5,61.4565,male,white,Dead
+CCL5,1.1591,male,Unknown,Alive
+CCL5,168.0778,female,white,Dead
+CCL5,7.8221,female,white,Dead
+CCL5,22.5724,female,white,Dead
+CCL5,23.1038,male,white,Alive
+CCL5,48.6231,male,white,Dead
+CCL5,4.6667,female,Unknown,Alive
+CCL5,20.1628,female,white,Alive
+CCL5,2.4682,female,white,Dead
+CCL5,55.3196,male,white,Dead
+CCL5,52.0295,male,white,Alive
+CCL5,4.9505,male,Unknown,Dead
+CCL5,1.9455,male,Unknown,Dead
+CCL5,4.7159,male,white,Alive
+CCL5,50.0648,female,white,Dead
+CCL5,9.2554,male,black or african american,Dead
+CCL5,8.3882,male,white,Alive
+CCL5,37.8951,male,white,Alive
+CCL5,5.7881,male,Unknown,Alive
+CCL5,60.2839,male,white,Alive
+CCL5,6.2388,male,white,Alive
+CCL5,24.3448,male,white,Dead
+CCL5,21.8208,female,white,Alive
+CCL5,10.2606,female,native hawaiian or other pacific islander,Dead
+CCL5,43.9875,female,Unknown,Dead
+CCL5,5.5457,male,white,Alive
+CCL5,145.3969,female,white,Alive
+CCL5,11.6888,male,white,Dead
+CCL5,18.3948,male,white,Alive
+CCL5,47.8123,male,white,Dead
+CCL5,24.6196,male,black or african american,Dead
+CCL5,37.5932,female,white,Dead
+CCL5,3.5568,male,white,Dead
+CCL5,10.8131,female,white,Alive
+CCL5,4.8376,female,white,Alive
+CCL5,3.4535,male,black or african american,Dead
+CCL5,40.0201,male,white,Dead
+CCL5,40.2463,male,white,Dead
+CCL5,16.6217,female,black or african american,Alive
+CCL5,4.1392,male,white,Dead
+CCL5,2.5651,female,black or african american,Alive
+CCL5,11.413,male,Unknown,Dead
+CCL5,4.8977,female,white,Dead
+CCL5,9.4621,female,Unknown,Dead
+CCL5,48.1599,female,white,Alive
+CCL5,11.8582,male,white,Alive
+CCL5,18.2253,male,white,Dead
+CCL5,39.0546,female,black or african american,Dead
+CCL5,35.9958,female,white,Dead
+CCL5,4.2874,female,white,Dead
+CCL5,39.8579,female,Unknown,Dead
+CCL5,8.1459,female,white,Dead
+CCL5,14.6324,male,white,Dead
+CCL5,31.7005,male,white,Alive
+CCL5,22.8668,male,white,Dead
+CCL5,29.3961,male,white,Dead
+CCL5,148.3671,male,white,Alive
+CCL5,22.2789,female,white,Alive
+CCL5,2.6647,female,white,Dead
+CCL5,23.1227,male,white,Alive
+CCL5,28.9866,male,Unknown,Alive
+CCL5,40.2992,male,black or african american,Dead
+CCL5,1.6599,male,black or african american,Dead
+CCL5,4.9479,male,black or african american,Dead
+CCL5,8.5105,female,white,Dead
+CCL5,114.7231,male,Unknown,Alive
+CCL5,29.8635,male,white,Alive
+CCL5,67.5255,female,white,Alive
+CCL5,30.6287,male,white,Dead
+CCL5,40.1751,male,white,Dead
+CCL5,1.2926,male,white,Alive
+CCL5,42.3793,male,Unknown,Alive
+CCL5,78.3804,male,black or african american,Dead
+CCL5,3.3714,male,white,Dead
+CCL5,206.1532,female,white,Alive
+CCL5,18.7725,male,black or african american,Dead
+CCL5,40.7159,female,white,Dead
+CCL5,19.3683,male,white,Dead
+CCL5,63.0211,male,white,Dead
+CCL5,6.1023,male,Unknown,Alive
+CCL5,9.1725,female,white,Alive
+CCL5,79.8911,male,white,Dead
+CCL5,29.5661,female,white,Dead
+CCL5,56.6053,male,white,Alive
+CCL5,7.8175,female,native hawaiian or other pacific islander,Dead
+CCL5,27.6163,male,white,Alive
+CCL5,6.5719,male,white,Alive
+CCL5,4.9385,male,white,Dead
+CCL5,42.7347,male,white,Alive
+CCL5,36.6713,male,white,Alive
+CCL5,1.0444,male,white,Dead
+CCL5,18.1959,male,white,Dead
+CCL5,92.5285,male,white,Alive
+CCL5,34.656,male,black or african american,Alive
+CCL5,55.7786,female,white,Dead
+CCL5,54.3382,female,black or african american,Dead
+CCL5,39.4757,male,black or african american,Alive
+CCL5,41.2314,female,white,Alive
+CCL5,47.1276,male,white,Dead
+CCL5,44.5927,male,white,Dead
+CCL5,42.0886,female,white,Alive
+CCL5,6.5351,female,black or african american,Alive
+CCL5,12.7747,male,white,Alive
+CCL5,25.0488,male,white,Alive
+CCL5,40.2336,male,black or african american,Alive
+CCL5,17.2108,female,white,Alive
+CCL5,1.4971,male,white,Alive
+CCL5,99.9926,male,white,Alive
+CCL5,3.6427,male,white,Alive
+CCL5,71.3847,male,white,Alive
+CCL5,12.8834,male,white,Dead
+CCL5,47.0724,female,white,Dead
+CCL5,13.2651,male,white,Alive
+CCL5,51.1877,female,white,Alive
+CCL5,17.4119,male,white,Dead
+CCL5,11.1842,male,black or african american,Dead
+CCL5,11.8051,male,white,Dead
+CCL5,8.7166,male,black or african american,Dead
+CCL5,3.6591,female,white,Alive
+CCL5,15.5312,male,white,Dead
+CCL5,14.4633,female,white,Dead
+CCL5,58.2274,female,white,Dead
+CCL5,24.2484,female,white,Alive
+CCL5,1.228,male,black or african american,Alive
+CCL5,5.8731,female,white,Dead
+CCL5,23.5659,male,black or african american,Dead
+CCL5,4.9609,male,white,Dead
+CCL5,51.7999,female,white,Alive
+CCL5,13.2776,female,white,Alive
+CCL5,4.0113,male,white,Dead
+CCL5,13.1214,female,white,Dead
+CCL5,38.7344,male,white,Dead
+CD8A,40.2685,female,black or african american,Alive
+CD8A,6.0478,male,white,Alive
+CD8A,20.6679,female,white,Alive
+CD8A,6.576,male,white,Alive
+CD8A,22.6249,male,Unknown,Alive
+CD8A,37.8931,female,asian,Alive
+CD8A,7.6954,female,white,Dead
+CD8A,11.4837,female,black or african american,Alive
+CD8A,23.8507,female,white,Alive
+CD8A,6.2471,female,black or african american,Alive
+CD8A,5.0267,male,white,Alive
+CD8A,31.5702,male,black or african american,Dead
+CD8A,4.4523,male,white,Alive
+CD8A,76.3648,female,white,Dead
+CD8A,10.7655,female,white,Dead
+CD8A,10.5051,female,white,Alive
+CD8A,13.8599,male,white,Alive
+CD8A,9.7475,female,black or african american,Dead
+CD8A,12.7286,female,black or african american,Dead
+CD8A,7.704,female,white,Dead
+CD8A,18.2864,female,white,Dead
+CD8A,18.2884,female,white,Alive
+CD8A,20.635,male,white,Dead
+CD8A,18.3406,male,Unknown,Alive
+CD8A,44.0479,female,white,Dead
+CD8A,16.2856,female,white,Dead
+CD8A,19.1506,female,white,Dead
+CD8A,34.4942,male,white,Alive
+CD8A,47.7855,male,white,Dead
+CD8A,16.6529,female,Unknown,Alive
+CD8A,25.885,female,white,Alive
+CD8A,20.7451,female,white,Dead
+CD8A,2.2429,male,white,Dead
+CD8A,61.8564,male,white,Alive
+CD8A,8.1748,male,Unknown,Dead
+CD8A,7.4339,male,Unknown,Dead
+CD8A,22.9248,male,white,Alive
+CD8A,31.2529,female,white,Dead
+CD8A,17.2147,male,black or african american,Dead
+CD8A,8.7148,male,white,Alive
+CD8A,11.1959,male,white,Alive
+CD8A,25.9621,male,Unknown,Alive
+CD8A,24.2563,male,white,Alive
+CD8A,6.2255,male,white,Alive
+CD8A,37.2946,male,white,Dead
+CD8A,43.4593,female,white,Alive
+CD8A,5.9017,female,native hawaiian or other pacific islander,Dead
+CD8A,16.9433,female,Unknown,Dead
+CD8A,27.6869,male,white,Alive
+CD8A,34.4785,female,white,Alive
+CD8A,19.5572,male,white,Dead
+CD8A,27.0396,male,white,Alive
+CD8A,16.0324,male,white,Dead
+CD8A,17.2339,male,black or african american,Dead
+CD8A,10.5398,female,white,Dead
+CD8A,3.3171,male,white,Dead
+CD8A,2.5053,female,white,Alive
+CD8A,12.601,female,white,Alive
+CD8A,18.6093,male,black or african american,Dead
+CD8A,15.5283,male,white,Dead
+CD8A,16.9599,male,white,Dead
+CD8A,0.6416,female,black or african american,Alive
+CD8A,4.5545,male,white,Dead
+CD8A,2.0923,female,black or african american,Alive
+CD8A,15.9809,male,Unknown,Dead
+CD8A,10.8456,female,white,Dead
+CD8A,12.4323,female,Unknown,Dead
+CD8A,43.2425,female,white,Alive
+CD8A,26.6868,male,white,Alive
+CD8A,17.1162,male,white,Dead
+CD8A,36.8507,female,black or african american,Dead
+CD8A,16.9438,female,white,Dead
+CD8A,4.1828,female,white,Dead
+CD8A,10.8207,female,Unknown,Dead
+CD8A,19.276,female,white,Dead
+CD8A,28.6687,male,white,Dead
+CD8A,36.0513,male,white,Alive
+CD8A,36.8684,male,white,Dead
+CD8A,21.8578,male,white,Dead
+CD8A,36.1718,male,white,Alive
+CD8A,16.1681,female,white,Alive
+CD8A,4.9783,female,white,Dead
+CD8A,4.5315,male,white,Alive
+CD8A,7.0714,male,Unknown,Alive
+CD8A,11.5137,male,black or african american,Dead
+CD8A,3.9684,male,black or african american,Dead
+CD8A,9.6562,male,black or african american,Dead
+CD8A,5.9619,female,white,Dead
+CD8A,13.5165,male,Unknown,Alive
+CD8A,21.6655,male,white,Alive
+CD8A,19.7123,female,white,Alive
+CD8A,40.8063,male,white,Dead
+CD8A,5.9641,male,white,Dead
+CD8A,4.8615,male,white,Alive
+CD8A,43.6742,male,Unknown,Alive
+CD8A,23.5871,male,black or african american,Dead
+CD8A,5.9962,male,white,Dead
+CD8A,80.626,female,white,Alive
+CD8A,28.7598,male,black or african american,Dead
+CD8A,18.0379,female,white,Dead
+CD8A,35.3984,male,white,Dead
+CD8A,6.5376,male,white,Dead
+CD8A,14.1386,male,Unknown,Alive
+CD8A,5.2303,female,white,Alive
+CD8A,23.1183,male,white,Dead
+CD8A,20.7774,female,white,Dead
+CD8A,25.6902,male,white,Alive
+CD8A,17.3393,female,native hawaiian or other pacific islander,Dead
+CD8A,21.4826,male,white,Alive
+CD8A,9.9992,male,white,Alive
+CD8A,9.8737,male,white,Dead
+CD8A,7.3448,male,white,Alive
+CD8A,19.0002,male,white,Alive
+CD8A,10.2299,male,white,Dead
+CD8A,8.7428,male,white,Dead
+CD8A,20.8254,male,white,Alive
+CD8A,20.6348,male,black or african american,Alive
+CD8A,13.2139,female,white,Dead
+CD8A,29.1152,female,black or african american,Dead
+CD8A,20.4275,male,black or african american,Alive
+CD8A,45.3892,female,white,Alive
+CD8A,31.2991,male,white,Dead
+CD8A,35.4073,male,white,Dead
+CD8A,18.1534,female,white,Alive
+CD8A,9.3987,female,black or african american,Alive
+CD8A,7.0838,male,white,Alive
+CD8A,5.9403,male,white,Alive
+CD8A,19.2858,male,black or african american,Alive
+CD8A,6.2907,female,white,Alive
+CD8A,5.4404,male,white,Alive
+CD8A,34.5304,male,white,Alive
+CD8A,13.7019,male,white,Alive
+CD8A,20.434,male,white,Alive
+CD8A,25.9866,male,white,Dead
+CD8A,14.5305,female,white,Dead
+CD8A,12.3779,male,white,Alive
+CD8A,31.7103,female,white,Alive
+CD8A,5.883,male,white,Dead
+CD8A,7.5995,male,black or african american,Dead
+CD8A,11.9198,male,white,Dead
+CD8A,11.2879,male,black or african american,Dead
+CD8A,11.0574,female,white,Alive
+CD8A,9.7432,male,white,Dead
+CD8A,12.6696,female,white,Dead
+CD8A,25.0761,female,white,Dead
+CD8A,7.5278,female,white,Alive
+CD8A,9.6986,male,black or african american,Alive
+CD8A,4.404,female,white,Dead
+CD8A,23.8874,male,black or african american,Dead
+CD8A,37.0615,male,white,Dead
+CD8A,23.4609,female,white,Alive
+CD8A,5.2036,female,white,Alive
+CD8A,21.4031,male,white,Dead
+CD8A,10.5182,female,white,Dead
+CD8A,21.714,male,white,Dead
+CD276,52.9897,female,black or african american,Alive
+CD276,81.2622,male,white,Alive
+CD276,123.859,female,white,Alive
+CD276,129.0113,male,white,Alive
+CD276,94.3179,male,Unknown,Alive
+CD276,106.4515,female,asian,Alive
+CD276,29.0638,female,white,Dead
+CD276,59.5574,female,black or african american,Alive
+CD276,55.8863,female,white,Alive
+CD276,122.1632,female,black or african american,Alive
+CD276,87.8385,male,white,Alive
+CD276,87.8163,male,black or african american,Dead
+CD276,185.0968,male,white,Alive
+CD276,75.6578,female,white,Dead
+CD276,92.9028,female,white,Dead
+CD276,55.142,female,white,Alive
+CD276,108.1246,male,white,Alive
+CD276,81.5305,female,black or african american,Dead
+CD276,111.0833,female,black or african american,Dead
+CD276,79.7823,female,white,Dead
+CD276,61.9157,female,white,Dead
+CD276,108.176,female,white,Alive
+CD276,73.1004,male,white,Dead
+CD276,140.6973,male,Unknown,Alive
+CD276,64.789,female,white,Dead
+CD276,138.8485,female,white,Dead
+CD276,22.3117,female,white,Dead
+CD276,74.9634,male,white,Alive
+CD276,110.4633,male,white,Dead
+CD276,83.6969,female,Unknown,Alive
+CD276,84.6876,female,white,Alive
+CD276,155.6283,female,white,Dead
+CD276,100.8442,male,white,Dead
+CD276,94.966,male,white,Alive
+CD276,118.6375,male,Unknown,Dead
+CD276,47.7673,male,Unknown,Dead
+CD276,104.7797,male,white,Alive
+CD276,155.5856,female,white,Dead
+CD276,67.5591,male,black or african american,Dead
+CD276,103.9728,male,white,Alive
+CD276,81.9623,male,white,Alive
+CD276,122.9891,male,Unknown,Alive
+CD276,62.3238,male,white,Alive
+CD276,45.8745,male,white,Alive
+CD276,54.1117,male,white,Dead
+CD276,103.4764,female,white,Alive
+CD276,40.352,female,native hawaiian or other pacific islander,Dead
+CD276,41.5043,female,Unknown,Dead
+CD276,112.4499,male,white,Alive
+CD276,47.1814,female,white,Alive
+CD276,115.888,male,white,Dead
+CD276,67.7345,male,white,Alive
+CD276,43.0998,male,white,Dead
+CD276,69.0556,male,black or african american,Dead
+CD276,57.2976,female,white,Dead
+CD276,103.9561,male,white,Dead
+CD276,90.3165,female,white,Alive
+CD276,81.1387,female,white,Alive
+CD276,122.6876,male,black or african american,Dead
+CD276,52.3277,male,white,Dead
+CD276,98.5299,male,white,Dead
+CD276,186.1407,female,black or african american,Alive
+CD276,130.2883,male,white,Dead
+CD276,244.6175,female,black or african american,Alive
+CD276,106.7981,male,Unknown,Dead
+CD276,84.1237,female,white,Dead
+CD276,98.4242,female,Unknown,Dead
+CD276,76.1084,female,white,Alive
+CD276,84.6476,male,white,Alive
+CD276,108.6796,male,white,Dead
+CD276,84.2584,female,black or african american,Dead
+CD276,74.5882,female,white,Dead
+CD276,43.6063,female,white,Dead
+CD276,75.3897,female,Unknown,Dead
+CD276,122.2634,female,white,Dead
+CD276,97.1522,male,white,Dead
+CD276,72.2825,male,white,Alive
+CD276,111.9424,male,white,Dead
+CD276,74.6161,male,white,Dead
+CD276,69.6759,male,white,Alive
+CD276,115.271,female,white,Alive
+CD276,40.0267,female,white,Dead
+CD276,58.0259,male,white,Alive
+CD276,69.1231,male,Unknown,Alive
+CD276,50.6685,male,black or african american,Dead
+CD276,95.4419,male,black or african american,Dead
+CD276,128.1773,male,black or african american,Dead
+CD276,60.3709,female,white,Dead
+CD276,54.6965,male,Unknown,Alive
+CD276,174.1613,male,white,Alive
+CD276,56.9721,female,white,Alive
+CD276,119.1776,male,white,Dead
+CD276,104.7881,male,white,Dead
+CD276,157.8952,male,white,Alive
+CD276,98.3866,male,Unknown,Alive
+CD276,83.6511,male,black or african american,Dead
+CD276,152.8278,male,white,Dead
+CD276,74.9746,female,white,Alive
+CD276,121.0524,male,black or african american,Dead
+CD276,82.3649,female,white,Dead
+CD276,135.8152,male,white,Dead
+CD276,44.1007,male,white,Dead
+CD276,97.4429,male,Unknown,Alive
+CD276,221.1166,female,white,Alive
+CD276,143.4919,male,white,Dead
+CD276,52.2604,female,white,Dead
+CD276,188.2525,male,white,Alive
+CD276,79.1162,female,native hawaiian or other pacific islander,Dead
+CD276,101.1499,male,white,Alive
+CD276,91.3929,male,white,Alive
+CD276,119.9597,male,white,Dead
+CD276,43.3983,male,white,Alive
+CD276,94.906,male,white,Alive
+CD276,108.95,male,white,Dead
+CD276,91.5151,male,white,Dead
+CD276,63.9949,male,white,Alive
+CD276,92.2219,male,black or african american,Alive
+CD276,61.0959,female,white,Dead
+CD276,146.5982,female,black or african american,Dead
+CD276,71.6603,male,black or african american,Alive
+CD276,89.2844,female,white,Alive
+CD276,54.8378,male,white,Dead
+CD276,62.1518,male,white,Dead
+CD276,221.9639,female,white,Alive
+CD276,111.2233,female,black or african american,Alive
+CD276,89.0642,male,white,Alive
+CD276,85.3394,male,white,Alive
+CD276,96.8663,male,black or african american,Alive
+CD276,119.6817,female,white,Alive
+CD276,88.924,male,white,Alive
+CD276,82.3875,male,white,Alive
+CD276,101.6786,male,white,Alive
+CD276,64.5784,male,white,Alive
+CD276,86.0083,male,white,Dead
+CD276,92.982,female,white,Dead
+CD276,31.3106,male,white,Alive
+CD276,67.8,female,white,Alive
+CD276,103.099,male,white,Dead
+CD276,67.7735,male,black or african american,Dead
+CD276,116.0644,male,white,Dead
+CD276,63.8973,male,black or african american,Dead
+CD276,55.8834,female,white,Alive
+CD276,102.6213,male,white,Dead
+CD276,77.9137,female,white,Dead
+CD276,85.5741,female,white,Dead
+CD276,66.2505,female,white,Alive
+CD276,137.8995,male,black or african american,Alive
+CD276,76.4764,female,white,Dead
+CD276,79.6825,male,black or african american,Dead
+CD276,104.0646,male,white,Dead
+CD276,94.5973,female,white,Alive
+CD276,54.9504,female,white,Alive
+CD276,109.7604,male,white,Dead
+CD276,89.3821,female,white,Dead
+CD276,66.308,male,white,Dead
+CD274,4.1713,female,black or african american,Alive
+CD274,1.6787,male,white,Alive
+CD274,1.4335,female,white,Alive
+CD274,1.7344,male,white,Alive
+CD274,1.3923,male,Unknown,Alive
+CD274,6.2466,female,asian,Alive
+CD274,2.441,female,white,Dead
+CD274,2.9415,female,black or african american,Alive
+CD274,0.63,female,white,Alive
+CD274,0.7399,female,black or african american,Alive
+CD274,0.9774,male,white,Alive
+CD274,1.1298,male,black or african american,Dead
+CD274,0.6401,male,white,Alive
+CD274,5.7669,female,white,Dead
+CD274,1.4691,female,white,Dead
+CD274,3.6555,female,white,Alive
+CD274,5.7739,male,white,Alive
+CD274,0.6831,female,black or african american,Dead
+CD274,0.3952,female,black or african american,Dead
+CD274,0.2688,female,white,Dead
+CD274,1.8751,female,white,Dead
+CD274,1.9818,female,white,Alive
+CD274,0.8155,male,white,Dead
+CD274,1.3472,male,Unknown,Alive
+CD274,12.7765,female,white,Dead
+CD274,1.1244,female,white,Dead
+CD274,2.048,female,white,Dead
+CD274,3.8738,male,white,Alive
+CD274,2.2673,male,white,Dead
+CD274,0.3383,female,Unknown,Alive
+CD274,1.9758,female,white,Alive
+CD274,0.5716,female,white,Dead
+CD274,5.9138,male,white,Dead
+CD274,4.3109,male,white,Alive
+CD274,0.855,male,Unknown,Dead
+CD274,0.0872,male,Unknown,Dead
+CD274,1.5101,male,white,Alive
+CD274,2.6241,female,white,Dead
+CD274,4.5877,male,black or african american,Dead
+CD274,1.0684,male,white,Alive
+CD274,1.9216,male,white,Alive
+CD274,0.9738,male,Unknown,Alive
+CD274,1.6724,male,white,Alive
+CD274,2.0511,male,white,Alive
+CD274,1.5078,male,white,Dead
+CD274,1.3151,female,white,Alive
+CD274,1.1379,female,native hawaiian or other pacific islander,Dead
+CD274,1.7316,female,Unknown,Dead
+CD274,1.3708,male,white,Alive
+CD274,3.8634,female,white,Alive
+CD274,1.2612,male,white,Dead
+CD274,1.16,male,white,Alive
+CD274,1.911,male,white,Dead
+CD274,2.8776,male,black or african american,Dead
+CD274,3.9164,female,white,Dead
+CD274,0.3613,male,white,Dead
+CD274,0.4535,female,white,Alive
+CD274,3.4788,female,white,Alive
+CD274,0.2745,male,black or african american,Dead
+CD274,2.7932,male,white,Dead
+CD274,4.9452,male,white,Dead
+CD274,2.3434,female,black or african american,Alive
+CD274,1.1364,male,white,Dead
+CD274,0.4255,female,black or african american,Alive
+CD274,0.9753,male,Unknown,Dead
+CD274,0.3604,female,white,Dead
+CD274,1.3124,female,Unknown,Dead
+CD274,3.0085,female,white,Alive
+CD274,1.4281,male,white,Alive
+CD274,0.826,male,white,Dead
+CD274,4.9095,female,black or african american,Dead
+CD274,1.2886,female,white,Dead
+CD274,5.0601,female,white,Dead
+CD274,7.9644,female,Unknown,Dead
+CD274,1.3392,female,white,Dead
+CD274,2.1225,male,white,Dead
+CD274,2.5847,male,white,Alive
+CD274,2.6421,male,white,Dead
+CD274,0.4697,male,white,Dead
+CD274,5.8437,male,white,Alive
+CD274,10.3884,female,white,Alive
+CD274,0.1685,female,white,Dead
+CD274,0.8748,male,white,Alive
+CD274,1.9765,male,Unknown,Alive
+CD274,3.6901,male,black or african american,Dead
+CD274,0.2613,male,black or african american,Dead
+CD274,0.3853,male,black or african american,Dead
+CD274,0.9128,female,white,Dead
+CD274,2.3251,male,Unknown,Alive
+CD274,1.5921,male,white,Alive
+CD274,3.7197,female,white,Alive
+CD274,2.056,male,white,Dead
+CD274,5.5344,male,white,Dead
+CD274,0.5424,male,white,Alive
+CD274,2.66,male,Unknown,Alive
+CD274,15.8472,male,black or african american,Dead
+CD274,1.2664,male,white,Dead
+CD274,7.2894,female,white,Alive
+CD274,2.4794,male,black or african american,Dead
+CD274,2.9384,female,white,Dead
+CD274,2.4007,male,white,Dead
+CD274,7.7116,male,white,Dead
+CD274,0.3076,male,Unknown,Alive
+CD274,0.7545,female,white,Alive
+CD274,2.3659,male,white,Dead
+CD274,1.5859,female,white,Dead
+CD274,2.5696,male,white,Alive
+CD274,0.6558,female,native hawaiian or other pacific islander,Dead
+CD274,0.9947,male,white,Alive
+CD274,0.8865,male,white,Alive
+CD274,1.1263,male,white,Dead
+CD274,3.0556,male,white,Alive
+CD274,0.9462,male,white,Alive
+CD274,0.2345,male,white,Dead
+CD274,2.0459,male,white,Dead
+CD274,2.4563,male,white,Alive
+CD274,2.4706,male,black or african american,Alive
+CD274,6.2965,female,white,Dead
+CD274,1.5856,female,black or african american,Dead
+CD274,3.0749,male,black or african american,Alive
+CD274,3.1773,female,white,Alive
+CD274,2.061,male,white,Dead
+CD274,2.1513,male,white,Dead
+CD274,1.3326,female,white,Alive
+CD274,1.5075,female,black or african american,Alive
+CD274,1.0841,male,white,Alive
+CD274,0.4879,male,white,Alive
+CD274,5.4107,male,black or african american,Alive
+CD274,1.1947,female,white,Alive
+CD274,0.38,male,white,Alive
+CD274,4.3626,male,white,Alive
+CD274,0.7385,male,white,Alive
+CD274,2.4466,male,white,Alive
+CD274,3.6547,male,white,Dead
+CD274,3.6671,female,white,Dead
+CD274,3.6135,male,white,Alive
+CD274,4.6501,female,white,Alive
+CD274,1.3858,male,white,Dead
+CD274,0.938,male,black or african american,Dead
+CD274,1.3087,male,white,Dead
+CD274,0.406,male,black or african american,Dead
+CD274,1.4776,female,white,Alive
+CD274,0.8728,male,white,Dead
+CD274,0.5977,female,white,Dead
+CD274,4.5788,female,white,Dead
+CD274,6.1377,female,white,Alive
+CD274,0.9829,male,black or african american,Alive
+CD274,0.92,female,white,Dead
+CD274,2.5841,male,black or african american,Dead
+CD274,0.4219,male,white,Dead
+CD274,5.0511,female,white,Alive
+CD274,0.3966,female,white,Alive
+CD274,0.7893,male,white,Dead
+CD274,0.9688,female,white,Dead
+CD274,2.9795,male,white,Dead
+CXCL9,44.4689,female,black or african american,Alive
+CXCL9,0.7059,male,white,Alive
+CXCL9,1.5102,female,white,Alive
+CXCL9,1.3245,male,white,Alive
+CXCL9,0.9007,male,Unknown,Alive
+CXCL9,29.0233,female,asian,Alive
+CXCL9,18.8241,female,white,Dead
+CXCL9,8.1672,female,black or african american,Alive
+CXCL9,0.753,female,white,Alive
+CXCL9,0.6972,female,black or african american,Alive
+CXCL9,20.2532,male,white,Alive
+CXCL9,2.2485,male,black or african american,Dead
+CXCL9,2.7684,male,white,Alive
+CXCL9,46.3913,female,white,Dead
+CXCL9,6.0446,female,white,Dead
+CXCL9,5.5939,female,white,Alive
+CXCL9,37.0632,male,white,Alive
+CXCL9,3.3956,female,black or african american,Dead
+CXCL9,0.5881,female,black or african american,Dead
+CXCL9,0.8362,female,white,Dead
+CXCL9,7.9934,female,white,Dead
+CXCL9,4.6005,female,white,Alive
+CXCL9,32.001,male,white,Dead
+CXCL9,0.0699,male,Unknown,Alive
+CXCL9,877.4202,female,white,Dead
+CXCL9,5.1476,female,white,Dead
+CXCL9,6.4918,female,white,Dead
+CXCL9,4.7292,male,white,Alive
+CXCL9,14.2166,male,white,Dead
+CXCL9,0.9061,female,Unknown,Alive
+CXCL9,4.1578,female,white,Alive
+CXCL9,0.7989,female,white,Dead
+CXCL9,3.1177,male,white,Dead
+CXCL9,7.3643,male,white,Alive
+CXCL9,1.0053,male,Unknown,Dead
+CXCL9,0,male,Unknown,Dead
+CXCL9,1.6982,male,white,Alive
+CXCL9,81.2454,female,white,Dead
+CXCL9,3.4908,male,black or african american,Dead
+CXCL9,6.7238,male,white,Alive
+CXCL9,42.2877,male,white,Alive
+CXCL9,0.2857,male,Unknown,Alive
+CXCL9,25.5862,male,white,Alive
+CXCL9,1.5091,male,white,Alive
+CXCL9,8.1884,male,white,Dead
+CXCL9,17.7526,female,white,Alive
+CXCL9,5.3886,female,native hawaiian or other pacific islander,Dead
+CXCL9,31.1174,female,Unknown,Dead
+CXCL9,0.8158,male,white,Alive
+CXCL9,290.1061,female,white,Alive
+CXCL9,4.7084,male,white,Dead
+CXCL9,1.3573,male,white,Alive
+CXCL9,33.1323,male,white,Dead
+CXCL9,16.0032,male,black or african american,Dead
+CXCL9,5.8875,female,white,Dead
+CXCL9,0.1991,male,white,Dead
+CXCL9,1.0797,female,white,Alive
+CXCL9,2.4728,female,white,Alive
+CXCL9,0.5012,male,black or african american,Dead
+CXCL9,26.63,male,white,Dead
+CXCL9,23.0582,male,white,Dead
+CXCL9,14.0771,female,black or african american,Alive
+CXCL9,7.3196,male,white,Dead
+CXCL9,2.8803,female,black or african american,Alive
+CXCL9,4.2159,male,Unknown,Dead
+CXCL9,12.8707,female,white,Dead
+CXCL9,2.3132,female,Unknown,Dead
+CXCL9,28.4065,female,white,Alive
+CXCL9,1.4873,male,white,Alive
+CXCL9,5.7055,male,white,Dead
+CXCL9,47.9446,female,black or african american,Dead
+CXCL9,6.0985,female,white,Dead
+CXCL9,0.7456,female,white,Dead
+CXCL9,3.1969,female,Unknown,Dead
+CXCL9,0.3402,female,white,Dead
+CXCL9,7.14,male,white,Dead
+CXCL9,64.9345,male,white,Alive
+CXCL9,49.5188,male,white,Dead
+CXCL9,3.5697,male,white,Dead
+CXCL9,147.352,male,white,Alive
+CXCL9,6.1266,female,white,Alive
+CXCL9,0.733,female,white,Dead
+CXCL9,5.7562,male,white,Alive
+CXCL9,4.1927,male,Unknown,Alive
+CXCL9,5.1051,male,black or african american,Dead
+CXCL9,0.3888,male,black or african american,Dead
+CXCL9,0.6388,male,black or african american,Dead
+CXCL9,7.8091,female,white,Dead
+CXCL9,12.1678,male,Unknown,Alive
+CXCL9,11.0283,male,white,Alive
+CXCL9,6.9263,female,white,Alive
+CXCL9,4.9808,male,white,Dead
+CXCL9,5.4565,male,white,Dead
+CXCL9,2.6668,male,white,Alive
+CXCL9,86.3676,male,Unknown,Alive
+CXCL9,750.1574,male,black or african american,Dead
+CXCL9,0.5384,male,white,Dead
+CXCL9,295.6131,female,white,Alive
+CXCL9,2.5737,male,black or african american,Dead
+CXCL9,78.7216,female,white,Dead
+CXCL9,5.1743,male,white,Dead
+CXCL9,5.6209,male,white,Dead
+CXCL9,0.8237,male,Unknown,Alive
+CXCL9,0.7347,female,white,Alive
+CXCL9,23.6128,male,white,Dead
+CXCL9,12.9161,female,white,Dead
+CXCL9,5.4305,male,white,Alive
+CXCL9,1.4635,female,native hawaiian or other pacific islander,Dead
+CXCL9,3.9253,male,white,Alive
+CXCL9,0.744,male,white,Alive
+CXCL9,5.787,male,white,Dead
+CXCL9,2.8815,male,white,Alive
+CXCL9,19.1387,male,white,Alive
+CXCL9,0.1309,male,white,Dead
+CXCL9,9.5614,male,white,Dead
+CXCL9,123.8724,male,white,Alive
+CXCL9,101.2108,male,black or african american,Alive
+CXCL9,25.1365,female,white,Dead
+CXCL9,14.8114,female,black or african american,Dead
+CXCL9,9.5019,male,black or african american,Alive
+CXCL9,24.3319,female,white,Alive
+CXCL9,24.3793,male,white,Dead
+CXCL9,8.6831,male,white,Dead
+CXCL9,24.6331,female,white,Alive
+CXCL9,8.3196,female,black or african american,Alive
+CXCL9,3.5888,male,white,Alive
+CXCL9,6.6506,male,white,Alive
+CXCL9,10.8689,male,black or african american,Alive
+CXCL9,10.9096,female,white,Alive
+CXCL9,0.9895,male,white,Alive
+CXCL9,276.559,male,white,Alive
+CXCL9,1.0046,male,white,Alive
+CXCL9,69.2358,male,white,Alive
+CXCL9,11.6897,male,white,Dead
+CXCL9,21.1424,female,white,Dead
+CXCL9,1.8812,male,white,Alive
+CXCL9,19.8698,female,white,Alive
+CXCL9,6.5551,male,white,Dead
+CXCL9,1.9576,male,black or african american,Dead
+CXCL9,4.7258,male,white,Dead
+CXCL9,18.3658,male,black or african american,Dead
+CXCL9,0.4238,female,white,Alive
+CXCL9,1.1299,male,white,Dead
+CXCL9,1.2003,female,white,Dead
+CXCL9,39.9938,female,white,Dead
+CXCL9,25.0628,female,white,Alive
+CXCL9,0.5592,male,black or african american,Alive
+CXCL9,2.9148,female,white,Dead
+CXCL9,3.7166,male,black or african american,Dead
+CXCL9,2.1061,male,white,Dead
+CXCL9,8.4251,female,white,Alive
+CXCL9,7.9526,female,white,Alive
+CXCL9,0.3203,male,white,Dead
+CXCL9,6.142,female,white,Dead
+CXCL9,69.0792,male,white,Dead
+CD27,15.6597,female,black or african american,Alive
+CD27,0.5103,male,white,Alive
+CD27,2.4386,female,white,Alive
+CD27,3.8155,male,white,Alive
+CD27,1.693,male,Unknown,Alive
+CD27,27.6265,female,asian,Alive
+CD27,1.1155,female,white,Dead
+CD27,2.1591,female,black or african american,Alive
+CD27,4.9424,female,white,Alive
+CD27,4.5217,female,black or african american,Alive
+CD27,1.9631,male,white,Alive
+CD27,1.8693,male,black or african american,Dead
+CD27,0.8326,male,white,Alive
+CD27,23.4364,female,white,Dead
+CD27,3.0279,female,white,Dead
+CD27,2.4085,female,white,Alive
+CD27,2.3434,male,white,Alive
+CD27,0.7719,female,black or african american,Dead
+CD27,2.0601,female,black or african american,Dead
+CD27,0.3037,female,white,Dead
+CD27,4.5319,female,white,Dead
+CD27,4.4888,female,white,Alive
+CD27,3.7218,male,white,Dead
+CD27,3.9428,male,Unknown,Alive
+CD27,9.188,female,white,Dead
+CD27,0.8063,female,white,Dead
+CD27,5.6377,female,white,Dead
+CD27,10.7258,male,white,Alive
+CD27,5.9271,male,white,Dead
+CD27,1.2265,female,Unknown,Alive
+CD27,3.833,female,white,Alive
+CD27,2.099,female,white,Dead
+CD27,0.5064,male,white,Dead
+CD27,10.7347,male,white,Alive
+CD27,1.4997,male,Unknown,Dead
+CD27,0.9676,male,Unknown,Dead
+CD27,1.6915,male,white,Alive
+CD27,8.2786,female,white,Dead
+CD27,1.7181,male,black or african american,Dead
+CD27,1.1665,male,white,Alive
+CD27,3.3891,male,white,Alive
+CD27,1.8752,male,Unknown,Alive
+CD27,1.5897,male,white,Alive
+CD27,0.5603,male,white,Alive
+CD27,5.8176,male,white,Dead
+CD27,9.5849,female,white,Alive
+CD27,2.0911,female,native hawaiian or other pacific islander,Dead
+CD27,13.1275,female,Unknown,Dead
+CD27,1.8256,male,white,Alive
+CD27,7.7658,female,white,Alive
+CD27,2.0665,male,white,Dead
+CD27,4.1995,male,white,Alive
+CD27,5.3884,male,white,Dead
+CD27,19.7374,male,black or african american,Dead
+CD27,2.6484,female,white,Dead
+CD27,0.0832,male,white,Dead
+CD27,0.4933,female,white,Alive
+CD27,1.3793,female,white,Alive
+CD27,3.4506,male,black or african american,Dead
+CD27,3.4971,male,white,Dead
+CD27,13.7758,male,white,Dead
+CD27,0.4673,female,black or african american,Alive
+CD27,2.1902,male,white,Dead
+CD27,0.5949,female,black or african american,Alive
+CD27,1.5153,male,Unknown,Dead
+CD27,1.5867,female,white,Dead
+CD27,2.7607,female,Unknown,Dead
+CD27,18.9218,female,white,Alive
+CD27,3.0176,male,white,Alive
+CD27,4.6652,male,white,Dead
+CD27,11.3372,female,black or african american,Dead
+CD27,8.3464,female,white,Dead
+CD27,0.5697,female,white,Dead
+CD27,2.1662,female,Unknown,Dead
+CD27,2.436,female,white,Dead
+CD27,5.8173,male,white,Dead
+CD27,7.11,male,white,Alive
+CD27,14.4512,male,white,Dead
+CD27,3.274,male,white,Dead
+CD27,10.8558,male,white,Alive
+CD27,3.6924,female,white,Alive
+CD27,0.8057,female,white,Dead
+CD27,1.8728,male,white,Alive
+CD27,1.328,male,Unknown,Alive
+CD27,1.5232,male,black or african american,Dead
+CD27,0.5167,male,black or african american,Dead
+CD27,2.3263,male,black or african american,Dead
+CD27,3.3297,female,white,Dead
+CD27,3.488,male,Unknown,Alive
+CD27,8.0807,male,white,Alive
+CD27,4.4132,female,white,Alive
+CD27,9.4196,male,white,Dead
+CD27,1.558,male,white,Dead
+CD27,1.2825,male,white,Alive
+CD27,9.3176,male,Unknown,Alive
+CD27,13.4804,male,black or african american,Dead
+CD27,0.2811,male,white,Dead
+CD27,11.73,female,white,Alive
+CD27,6.4503,male,black or african american,Dead
+CD27,5.079,female,white,Dead
+CD27,14.8502,male,white,Dead
+CD27,3.3925,male,white,Dead
+CD27,1.4527,male,Unknown,Alive
+CD27,0.8951,female,white,Alive
+CD27,4.149,male,white,Dead
+CD27,11.2181,female,white,Dead
+CD27,6.51,male,white,Alive
+CD27,1.834,female,native hawaiian or other pacific islander,Dead
+CD27,4.3006,male,white,Alive
+CD27,0.671,male,white,Alive
+CD27,2.0999,male,white,Dead
+CD27,1.8277,male,white,Alive
+CD27,1.61,male,white,Alive
+CD27,0.911,male,white,Dead
+CD27,2.5741,male,white,Dead
+CD27,5.3977,male,white,Alive
+CD27,5.4325,male,black or african american,Alive
+CD27,6.4414,female,white,Dead
+CD27,7.5176,female,black or african american,Dead
+CD27,2.1315,male,black or african american,Alive
+CD27,19.0202,female,white,Alive
+CD27,7.0129,male,white,Dead
+CD27,18.8365,male,white,Dead
+CD27,2.2586,female,white,Alive
+CD27,2.3423,female,black or african american,Alive
+CD27,2.1896,male,white,Alive
+CD27,1.7058,male,white,Alive
+CD27,1.582,male,black or african american,Alive
+CD27,1.6688,female,white,Alive
+CD27,1.8452,male,white,Alive
+CD27,10.0257,male,white,Alive
+CD27,1.7046,male,white,Alive
+CD27,6.7326,male,white,Alive
+CD27,14.9086,male,white,Dead
+CD27,7.2406,female,white,Dead
+CD27,3.3476,male,white,Alive
+CD27,15.8587,female,white,Alive
+CD27,2.1124,male,white,Dead
+CD27,0.4921,male,black or african american,Dead
+CD27,3.304,male,white,Dead
+CD27,1.5562,male,black or african american,Dead
+CD27,0.1106,female,white,Alive
+CD27,1.3736,male,white,Dead
+CD27,3.9565,female,white,Dead
+CD27,15.6272,female,white,Dead
+CD27,1.4522,female,white,Alive
+CD27,1.7068,male,black or african american,Alive
+CD27,1.1099,female,white,Dead
+CD27,1.1152,male,black or african american,Dead
+CD27,1.3534,male,white,Dead
+CD27,13.6719,female,white,Alive
+CD27,0.6429,female,white,Alive
+CD27,3.7011,male,white,Dead
+CD27,1.0908,female,white,Dead
+CD27,3.7493,male,white,Dead
+TIGIT,6.7085,female,black or african american,Alive
+TIGIT,0.0615,male,white,Alive
+TIGIT,0.1129,female,white,Alive
+TIGIT,0.1242,male,white,Alive
+TIGIT,0.294,male,Unknown,Alive
+TIGIT,6.0641,female,asian,Alive
+TIGIT,1.3289,female,white,Dead
+TIGIT,0.9529,female,black or african american,Alive
+TIGIT,0.8916,female,white,Alive
+TIGIT,0.0665,female,black or african american,Alive
+TIGIT,0.3376,male,white,Alive
+TIGIT,0.0198,male,black or african american,Dead
+TIGIT,0.0201,male,white,Alive
+TIGIT,3.7443,female,white,Dead
+TIGIT,0.8998,female,white,Dead
+TIGIT,1.0689,female,white,Alive
+TIGIT,0.9457,male,white,Alive
+TIGIT,0.1466,female,black or african american,Dead
+TIGIT,0.1634,female,black or african american,Dead
+TIGIT,0.0659,female,white,Dead
+TIGIT,1.3048,female,white,Dead
+TIGIT,0.3945,female,white,Alive
+TIGIT,1.3234,male,white,Dead
+TIGIT,0.1796,male,Unknown,Alive
+TIGIT,8.4769,female,white,Dead
+TIGIT,0.1167,female,white,Dead
+TIGIT,1.7641,female,white,Dead
+TIGIT,1.4152,male,white,Alive
+TIGIT,2.2937,male,white,Dead
+TIGIT,0.0608,female,Unknown,Alive
+TIGIT,0.346,female,white,Alive
+TIGIT,0.0584,female,white,Dead
+TIGIT,0.2041,male,white,Dead
+TIGIT,2.6627,male,white,Alive
+TIGIT,0.1581,male,Unknown,Dead
+TIGIT,0.0336,male,Unknown,Dead
+TIGIT,0.3671,male,white,Alive
+TIGIT,1.9319,female,white,Dead
+TIGIT,0.9575,male,black or african american,Dead
+TIGIT,0.3116,male,white,Alive
+TIGIT,0.4116,male,white,Alive
+TIGIT,0.0832,male,Unknown,Alive
+TIGIT,1.0749,male,white,Alive
+TIGIT,0.5853,male,white,Alive
+TIGIT,1.1525,male,white,Dead
+TIGIT,1.661,female,white,Alive
+TIGIT,0.5199,female,native hawaiian or other pacific islander,Dead
+TIGIT,3.6775,female,Unknown,Dead
+TIGIT,0.1321,male,white,Alive
+TIGIT,4.7641,female,white,Alive
+TIGIT,0.3016,male,white,Dead
+TIGIT,0.2658,male,white,Alive
+TIGIT,3.9978,male,white,Dead
+TIGIT,6.3903,male,black or african american,Dead
+TIGIT,0.7322,female,white,Dead
+TIGIT,0.0271,male,white,Dead
+TIGIT,0.1988,female,white,Alive
+TIGIT,0.1044,female,white,Alive
+TIGIT,0.1178,male,black or african american,Dead
+TIGIT,2.0484,male,white,Dead
+TIGIT,7.3948,male,white,Dead
+TIGIT,0.1183,female,black or african american,Alive
+TIGIT,0.1552,male,white,Dead
+TIGIT,0.1435,female,black or african american,Alive
+TIGIT,0.3644,male,Unknown,Dead
+TIGIT,0.1317,female,white,Dead
+TIGIT,0.8034,female,Unknown,Dead
+TIGIT,5.1213,female,white,Alive
+TIGIT,0.8187,male,white,Alive
+TIGIT,0.9109,male,white,Dead
+TIGIT,2.4606,female,black or african american,Dead
+TIGIT,0.89,female,white,Dead
+TIGIT,0.3132,female,white,Dead
+TIGIT,1.0691,female,Unknown,Dead
+TIGIT,0.0441,female,white,Dead
+TIGIT,1.5738,male,white,Dead
+TIGIT,2.429,male,white,Alive
+TIGIT,4.4911,male,white,Dead
+TIGIT,0.2483,male,white,Dead
+TIGIT,3.37,male,white,Alive
+TIGIT,0.8649,female,white,Alive
+TIGIT,0.0525,female,white,Dead
+TIGIT,0.5638,male,white,Alive
+TIGIT,0.3603,male,Unknown,Alive
+TIGIT,2.8006,male,black or african american,Dead
+TIGIT,0.024,male,black or african american,Dead
+TIGIT,0.1633,male,black or african american,Dead
+TIGIT,1.1978,female,white,Dead
+TIGIT,1.5952,male,Unknown,Alive
+TIGIT,1.0022,male,white,Alive
+TIGIT,2.0373,female,white,Alive
+TIGIT,1.0311,male,white,Dead
+TIGIT,1.5201,male,white,Dead
+TIGIT,0.0557,male,white,Alive
+TIGIT,4.0446,male,Unknown,Alive
+TIGIT,0.7434,male,black or african american,Dead
+TIGIT,0.122,male,white,Dead
+TIGIT,6.0335,female,white,Alive
+TIGIT,0.2956,male,black or african american,Dead
+TIGIT,1.9446,female,white,Dead
+TIGIT,4.4034,male,white,Dead
+TIGIT,1.3791,male,white,Dead
+TIGIT,0.1079,male,Unknown,Alive
+TIGIT,0.1388,female,white,Alive
+TIGIT,1.2244,male,white,Dead
+TIGIT,2.0689,female,white,Dead
+TIGIT,0.3422,male,white,Alive
+TIGIT,0.0885,female,native hawaiian or other pacific islander,Dead
+TIGIT,0.6028,male,white,Alive
+TIGIT,0.0843,male,white,Alive
+TIGIT,0.5773,male,white,Dead
+TIGIT,0.6773,male,white,Alive
+TIGIT,0.547,male,white,Alive
+TIGIT,0.1681,male,white,Dead
+TIGIT,0.3301,male,white,Dead
+TIGIT,2.9013,male,white,Alive
+TIGIT,1.5109,male,black or african american,Alive
+TIGIT,2.9097,female,white,Dead
+TIGIT,0.5622,female,black or african american,Dead
+TIGIT,2.3609,male,black or african american,Alive
+TIGIT,3.813,female,white,Alive
+TIGIT,1.5535,male,white,Dead
+TIGIT,2.1403,male,white,Dead
+TIGIT,0.4721,female,white,Alive
+TIGIT,0.305,female,black or african american,Alive
+TIGIT,0.3838,male,white,Alive
+TIGIT,0.2409,male,white,Alive
+TIGIT,0.5031,male,black or african american,Alive
+TIGIT,0.3844,female,white,Alive
+TIGIT,0.0641,male,white,Alive
+TIGIT,7.757,male,white,Alive
+TIGIT,0.2134,male,white,Alive
+TIGIT,2.1672,male,white,Alive
+TIGIT,3.4638,male,white,Dead
+TIGIT,4.1821,female,white,Dead
+TIGIT,2.4724,male,white,Alive
+TIGIT,6.2637,female,white,Alive
+TIGIT,0.3527,male,white,Dead
+TIGIT,0.115,male,black or african american,Dead
+TIGIT,0.3402,male,white,Dead
+TIGIT,0.1734,male,black or african american,Dead
+TIGIT,0.084,female,white,Alive
+TIGIT,0.5045,male,white,Dead
+TIGIT,0.4392,female,white,Dead
+TIGIT,5.4357,female,white,Dead
+TIGIT,1.674,female,white,Alive
+TIGIT,0.156,male,black or african american,Alive
+TIGIT,0.0365,female,white,Dead
+TIGIT,1.1038,male,black or african american,Dead
+TIGIT,0.4223,male,white,Dead
+TIGIT,5.0651,female,white,Alive
+TIGIT,0.2558,female,white,Alive
+TIGIT,0.0677,male,white,Dead
+TIGIT,0.2936,female,white,Dead
+TIGIT,0.8304,male,white,Dead
+LAG3,9.1465,female,black or african american,Alive
+LAG3,0.8094,male,white,Alive
+LAG3,15.2052,female,white,Alive
+LAG3,13.8027,male,white,Alive
+LAG3,11.8317,male,Unknown,Alive
+LAG3,14.6911,female,asian,Alive
+LAG3,2.713,female,white,Dead
+LAG3,3.2691,female,black or african american,Alive
+LAG3,15.9103,female,white,Alive
+LAG3,13.1618,female,black or african american,Alive
+LAG3,7.8512,male,white,Alive
+LAG3,12.3467,male,black or african american,Dead
+LAG3,15.5873,male,white,Alive
+LAG3,8.1715,female,white,Dead
+LAG3,10.0959,female,white,Dead
+LAG3,1.7728,female,white,Alive
+LAG3,11.0087,male,white,Alive
+LAG3,14.713,female,black or african american,Dead
+LAG3,15.4416,female,black or african american,Dead
+LAG3,5.7483,female,white,Dead
+LAG3,11.8629,female,white,Dead
+LAG3,18.7279,female,white,Alive
+LAG3,15.8947,male,white,Dead
+LAG3,11.0971,male,Unknown,Alive
+LAG3,27.5167,female,white,Dead
+LAG3,4.9995,female,white,Dead
+LAG3,20.0942,female,white,Dead
+LAG3,14.17,male,white,Alive
+LAG3,25.495,male,white,Dead
+LAG3,6.2609,female,Unknown,Alive
+LAG3,5.3852,female,white,Alive
+LAG3,10.8261,female,white,Dead
+LAG3,14.2403,male,white,Dead
+LAG3,17.853,male,white,Alive
+LAG3,5.1902,male,Unknown,Dead
+LAG3,11.3346,male,Unknown,Dead
+LAG3,10.0789,male,white,Alive
+LAG3,20.7606,female,white,Dead
+LAG3,18.9028,male,black or african american,Dead
+LAG3,18.5735,male,white,Alive
+LAG3,7.3828,male,white,Alive
+LAG3,7.061,male,Unknown,Alive
+LAG3,19.5986,male,white,Alive
+LAG3,1.8028,male,white,Alive
+LAG3,10.8773,male,white,Dead
+LAG3,3.7928,female,white,Alive
+LAG3,6.431,female,native hawaiian or other pacific islander,Dead
+LAG3,8.5843,female,Unknown,Dead
+LAG3,18.4449,male,white,Alive
+LAG3,18.1682,female,white,Alive
+LAG3,7.845,male,white,Dead
+LAG3,8.6141,male,white,Alive
+LAG3,4.8047,male,white,Dead
+LAG3,9.5053,male,black or african american,Dead
+LAG3,3.3688,female,white,Dead
+LAG3,13.4537,male,white,Dead
+LAG3,5.182,female,white,Alive
+LAG3,4.8845,female,white,Alive
+LAG3,12.8138,male,black or african american,Dead
+LAG3,12.4489,male,white,Dead
+LAG3,15.2256,male,white,Dead
+LAG3,3.7228,female,black or african american,Alive
+LAG3,17.4606,male,white,Dead
+LAG3,14.4696,female,black or african american,Alive
+LAG3,12.3834,male,Unknown,Dead
+LAG3,10.2151,female,white,Dead
+LAG3,9.3911,female,Unknown,Dead
+LAG3,9.5658,female,white,Alive
+LAG3,5.7782,male,white,Alive
+LAG3,9.4503,male,white,Dead
+LAG3,17.6261,female,black or african american,Dead
+LAG3,12.4805,female,white,Dead
+LAG3,1.1337,female,white,Dead
+LAG3,6.4442,female,Unknown,Dead
+LAG3,4.9177,female,white,Dead
+LAG3,16.7471,male,white,Dead
+LAG3,12.6446,male,white,Alive
+LAG3,13.3546,male,white,Dead
+LAG3,24.7428,male,white,Dead
+LAG3,14.0172,male,white,Alive
+LAG3,8.6507,female,white,Alive
+LAG3,10.9968,female,white,Dead
+LAG3,5.0438,male,white,Alive
+LAG3,4.7215,male,Unknown,Alive
+LAG3,3.5307,male,black or african american,Dead
+LAG3,6.4818,male,black or african american,Dead
+LAG3,14.2809,male,black or african american,Dead
+LAG3,8.4556,female,white,Dead
+LAG3,4.2437,male,Unknown,Alive
+LAG3,13.3405,male,white,Alive
+LAG3,4.0304,female,white,Alive
+LAG3,10.8071,male,white,Dead
+LAG3,5.1288,male,white,Dead
+LAG3,34.4757,male,white,Alive
+LAG3,6.7287,male,Unknown,Alive
+LAG3,54.8415,male,black or african american,Dead
+LAG3,0.4134,male,white,Dead
+LAG3,30.3504,female,white,Alive
+LAG3,8.0144,male,black or african american,Dead
+LAG3,16.8364,female,white,Dead
+LAG3,25.6963,male,white,Dead
+LAG3,4.7056,male,white,Dead
+LAG3,17.9428,male,Unknown,Alive
+LAG3,18.4947,female,white,Alive
+LAG3,18.7829,male,white,Dead
+LAG3,4.3479,female,white,Dead
+LAG3,12.4087,male,white,Alive
+LAG3,15.1399,female,native hawaiian or other pacific islander,Dead
+LAG3,19.3017,male,white,Alive
+LAG3,2.7653,male,white,Alive
+LAG3,11.3853,male,white,Dead
+LAG3,8.755,male,white,Alive
+LAG3,10.8713,male,white,Alive
+LAG3,10.9355,male,white,Dead
+LAG3,25.1898,male,white,Dead
+LAG3,21.6168,male,white,Alive
+LAG3,13.1152,male,black or african american,Alive
+LAG3,10.3623,female,white,Dead
+LAG3,12.9422,female,black or african american,Dead
+LAG3,6.518,male,black or african american,Alive
+LAG3,5.5272,female,white,Alive
+LAG3,7.9353,male,white,Dead
+LAG3,9.954,male,white,Dead
+LAG3,18.1841,female,white,Alive
+LAG3,7.0927,female,black or african american,Alive
+LAG3,6.8308,male,white,Alive
+LAG3,9.9324,male,white,Alive
+LAG3,11.2044,male,black or african american,Alive
+LAG3,26.2544,female,white,Alive
+LAG3,8.4611,male,white,Alive
+LAG3,16.9015,male,white,Alive
+LAG3,7.6577,male,white,Alive
+LAG3,11.568,male,white,Alive
+LAG3,14.1106,male,white,Dead
+LAG3,12.4433,female,white,Dead
+LAG3,2.7254,male,white,Alive
+LAG3,16.8026,female,white,Alive
+LAG3,5.852,male,white,Dead
+LAG3,16.5398,male,black or african american,Dead
+LAG3,16.8035,male,white,Dead
+LAG3,6.4771,male,black or african american,Dead
+LAG3,5.1212,female,white,Alive
+LAG3,7.5725,male,white,Dead
+LAG3,6.0165,female,white,Dead
+LAG3,23.7788,female,white,Dead
+LAG3,5.4445,female,white,Alive
+LAG3,11.9304,male,black or african american,Alive
+LAG3,5.8925,female,white,Dead
+LAG3,8.684,male,black or african american,Dead
+LAG3,5.3242,male,white,Dead
+LAG3,7.9334,female,white,Alive
+LAG3,11.6813,female,white,Alive
+LAG3,14.699,male,white,Dead
+LAG3,1.6421,female,white,Dead
+LAG3,11.0224,male,white,Dead
+CXCR6,6.6034,female,black or african american,Alive
+CXCR6,0.0794,male,white,Alive
+CXCR6,0.4555,female,white,Alive
+CXCR6,0.6681,male,white,Alive
+CXCR6,0.7773,male,Unknown,Alive
+CXCR6,2.0975,female,asian,Alive
+CXCR6,0.4167,female,white,Dead
+CXCR6,2.6086,female,black or african american,Alive
+CXCR6,0.1798,female,white,Alive
+CXCR6,0.5368,female,black or african american,Alive
+CXCR6,1.2452,male,white,Alive
+CXCR6,0.0639,male,black or african american,Dead
+CXCR6,0.1134,male,white,Alive
+CXCR6,1.6743,female,white,Dead
+CXCR6,0.7667,female,white,Dead
+CXCR6,3.6004,female,white,Alive
+CXCR6,1.5772,male,white,Alive
+CXCR6,0.2196,female,black or african american,Dead
+CXCR6,0.0971,female,black or african american,Dead
+CXCR6,0.3457,female,white,Dead
+CXCR6,0.5506,female,white,Dead
+CXCR6,2.0267,female,white,Alive
+CXCR6,0.6378,male,white,Dead
+CXCR6,0.1705,male,Unknown,Alive
+CXCR6,11.7513,female,white,Dead
+CXCR6,0.5177,female,white,Dead
+CXCR6,0.8963,female,white,Dead
+CXCR6,1.9591,male,white,Alive
+CXCR6,0.7441,male,white,Dead
+CXCR6,0.2945,female,Unknown,Alive
+CXCR6,0.7009,female,white,Alive
+CXCR6,0.6597,female,white,Dead
+CXCR6,0.3547,male,white,Dead
+CXCR6,1.5163,male,white,Alive
+CXCR6,0.3751,male,Unknown,Dead
+CXCR6,0.0136,male,Unknown,Dead
+CXCR6,0.4013,male,white,Alive
+CXCR6,2.6376,female,white,Dead
+CXCR6,0.618,male,black or african american,Dead
+CXCR6,0.6599,male,white,Alive
+CXCR6,0.2543,male,white,Alive
+CXCR6,0.4776,male,Unknown,Alive
+CXCR6,0.8993,male,white,Alive
+CXCR6,0.1962,male,white,Alive
+CXCR6,0.8614,male,white,Dead
+CXCR6,0.4163,female,white,Alive
+CXCR6,1.3182,female,native hawaiian or other pacific islander,Dead
+CXCR6,1.4834,female,Unknown,Dead
+CXCR6,0.1989,male,white,Alive
+CXCR6,7.5898,female,white,Alive
+CXCR6,0.5989,male,white,Dead
+CXCR6,0.8701,male,white,Alive
+CXCR6,1.8196,male,white,Dead
+CXCR6,1.7185,male,black or african american,Dead
+CXCR6,1.4243,female,white,Dead
+CXCR6,0,male,white,Dead
+CXCR6,0.2714,female,white,Alive
+CXCR6,0.4156,female,white,Alive
+CXCR6,0.3394,male,black or african american,Dead
+CXCR6,0.723,male,white,Dead
+CXCR6,0.6115,male,white,Dead
+CXCR6,0.0545,female,black or african american,Alive
+CXCR6,0.2661,male,white,Dead
+CXCR6,0.0926,female,black or african american,Alive
+CXCR6,0.2581,male,Unknown,Dead
+CXCR6,0.3595,female,white,Dead
+CXCR6,0.1538,female,Unknown,Dead
+CXCR6,2.8803,female,white,Alive
+CXCR6,0.7926,male,white,Alive
+CXCR6,0.8858,male,white,Dead
+CXCR6,2.6246,female,black or african american,Dead
+CXCR6,1.4868,female,white,Dead
+CXCR6,0.133,female,white,Dead
+CXCR6,3.6892,female,Unknown,Dead
+CXCR6,0,female,white,Dead
+CXCR6,0.5882,male,white,Dead
+CXCR6,2.2824,male,white,Alive
+CXCR6,2.9778,male,white,Dead
+CXCR6,0.4006,male,white,Dead
+CXCR6,4.1358,male,white,Alive
+CXCR6,1.5235,female,white,Alive
+CXCR6,0.0141,female,white,Dead
+CXCR6,0.8674,male,white,Alive
+CXCR6,0.2471,male,Unknown,Alive
+CXCR6,3.8748,male,black or african american,Dead
+CXCR6,0.1163,male,black or african american,Dead
+CXCR6,0.1438,male,black or african american,Dead
+CXCR6,0.5722,female,white,Dead
+CXCR6,2.1485,male,Unknown,Alive
+CXCR6,2.3101,male,white,Alive
+CXCR6,1.6191,female,white,Alive
+CXCR6,0.7745,male,white,Dead
+CXCR6,1.2367,male,white,Dead
+CXCR6,0.8341,male,white,Alive
+CXCR6,2.342,male,Unknown,Alive
+CXCR6,1.7929,male,black or african american,Dead
+CXCR6,0.0984,male,white,Dead
+CXCR6,8.6149,female,white,Alive
+CXCR6,0.7028,male,black or african american,Dead
+CXCR6,1.5188,female,white,Dead
+CXCR6,1.4893,male,white,Dead
+CXCR6,1.2446,male,white,Dead
+CXCR6,0.1874,male,Unknown,Alive
+CXCR6,0.2538,female,white,Alive
+CXCR6,5.0727,male,white,Dead
+CXCR6,0.704,female,white,Dead
+CXCR6,2.4935,male,white,Alive
+CXCR6,0.0535,female,native hawaiian or other pacific islander,Dead
+CXCR6,1.7885,male,white,Alive
+CXCR6,0.2968,male,white,Alive
+CXCR6,0.8661,male,white,Dead
+CXCR6,0.3903,male,white,Alive
+CXCR6,1.4218,male,white,Alive
+CXCR6,0.1436,male,white,Dead
+CXCR6,1.079,male,white,Dead
+CXCR6,1.2109,male,white,Alive
+CXCR6,3.4176,male,black or african american,Alive
+CXCR6,2.0866,female,white,Dead
+CXCR6,3.1307,female,black or african american,Dead
+CXCR6,6.9753,male,black or african american,Alive
+CXCR6,2.5931,female,white,Alive
+CXCR6,1.6643,male,white,Dead
+CXCR6,0.8278,male,white,Dead
+CXCR6,0.2929,female,white,Alive
+CXCR6,0.7159,female,black or african american,Alive
+CXCR6,0.811,male,white,Alive
+CXCR6,0.2845,male,white,Alive
+CXCR6,0.4381,male,black or african american,Alive
+CXCR6,0.6321,female,white,Alive
+CXCR6,0.2326,male,white,Alive
+CXCR6,6.6021,male,white,Alive
+CXCR6,0.2066,male,white,Alive
+CXCR6,5.6957,male,white,Alive
+CXCR6,1.279,male,white,Dead
+CXCR6,1.9121,female,white,Dead
+CXCR6,1.1805,male,white,Alive
+CXCR6,2.9601,female,white,Alive
+CXCR6,1.4795,male,white,Dead
+CXCR6,0.6894,male,black or african american,Dead
+CXCR6,0.6972,male,white,Dead
+CXCR6,1.5907,male,black or african american,Dead
+CXCR6,0,female,white,Alive
+CXCR6,0.2344,male,white,Dead
+CXCR6,0.7774,female,white,Dead
+CXCR6,2.5212,female,white,Dead
+CXCR6,1.2883,female,white,Alive
+CXCR6,0.2517,male,black or african american,Alive
+CXCR6,0.4947,female,white,Dead
+CXCR6,0.9217,male,black or african american,Dead
+CXCR6,0.474,male,white,Dead
+CXCR6,4.3105,female,white,Alive
+CXCR6,0.2439,female,white,Alive
+CXCR6,0.3592,male,white,Dead
+CXCR6,0.382,female,white,Dead
+CXCR6,1.8355,male,white,Dead
+STAT1,51.9422,female,black or african american,Alive
+STAT1,22.3265,male,white,Alive
+STAT1,21.5322,female,white,Alive
+STAT1,22.4517,male,white,Alive
+STAT1,41.5396,male,Unknown,Alive
+STAT1,49.7549,female,asian,Alive
+STAT1,16.8747,female,white,Dead
+STAT1,55.062,female,black or african american,Alive
+STAT1,12.8281,female,white,Alive
+STAT1,5.9317,female,black or african american,Alive
+STAT1,11.4271,male,white,Alive
+STAT1,17.7244,male,black or african american,Dead
+STAT1,10.4272,male,white,Alive
+STAT1,51.7259,female,white,Dead
+STAT1,24.1101,female,white,Dead
+STAT1,48.2663,female,white,Alive
+STAT1,85.591,male,white,Alive
+STAT1,21.914,female,black or african american,Dead
+STAT1,10.5071,female,black or african american,Dead
+STAT1,39.8756,female,white,Dead
+STAT1,18.2592,female,white,Dead
+STAT1,61.426,female,white,Alive
+STAT1,25.3731,male,white,Dead
+STAT1,22.4337,male,Unknown,Alive
+STAT1,142.915,female,white,Dead
+STAT1,20.8114,female,white,Dead
+STAT1,22.6142,female,white,Dead
+STAT1,31.0104,male,white,Alive
+STAT1,68.4808,male,white,Dead
+STAT1,29.6125,female,Unknown,Alive
+STAT1,44.9851,female,white,Alive
+STAT1,37.5119,female,white,Dead
+STAT1,17.4452,male,white,Dead
+STAT1,24.2597,male,white,Alive
+STAT1,21.0355,male,Unknown,Dead
+STAT1,7.2531,male,Unknown,Dead
+STAT1,71.403,male,white,Alive
+STAT1,46.8042,female,white,Dead
+STAT1,29.6891,male,black or african american,Dead
+STAT1,27.725,male,white,Alive
+STAT1,35.8133,male,white,Alive
+STAT1,37.0855,male,Unknown,Alive
+STAT1,36.1533,male,white,Alive
+STAT1,16.737,male,white,Alive
+STAT1,29.6016,male,white,Dead
+STAT1,68.2055,female,white,Alive
+STAT1,22.8887,female,native hawaiian or other pacific islander,Dead
+STAT1,34.54,female,Unknown,Dead
+STAT1,27.9415,male,white,Alive
+STAT1,76.3922,female,white,Alive
+STAT1,43.4081,male,white,Dead
+STAT1,35.3402,male,white,Alive
+STAT1,23.8115,male,white,Dead
+STAT1,34.2176,male,black or african american,Dead
+STAT1,34.2234,female,white,Dead
+STAT1,17.4406,male,white,Dead
+STAT1,28.9665,female,white,Alive
+STAT1,30.2054,female,white,Alive
+STAT1,11.9456,male,black or african american,Dead
+STAT1,35.456,male,white,Dead
+STAT1,52.1142,male,white,Dead
+STAT1,60.5475,female,black or african american,Alive
+STAT1,20.0137,male,white,Dead
+STAT1,14.1863,female,black or african american,Alive
+STAT1,27.3414,male,Unknown,Dead
+STAT1,9.6994,female,white,Dead
+STAT1,26.8279,female,Unknown,Dead
+STAT1,45.8369,female,white,Alive
+STAT1,25.8797,male,white,Alive
+STAT1,27.9805,male,white,Dead
+STAT1,75.3954,female,black or african american,Dead
+STAT1,16.6598,female,white,Dead
+STAT1,20.4489,female,white,Dead
+STAT1,28.4406,female,Unknown,Dead
+STAT1,32.8524,female,white,Dead
+STAT1,33.5701,male,white,Dead
+STAT1,34.0731,male,white,Alive
+STAT1,65.5604,male,white,Dead
+STAT1,24.2964,male,white,Dead
+STAT1,83.4702,male,white,Alive
+STAT1,91.5056,female,white,Alive
+STAT1,3.0582,female,white,Dead
+STAT1,14.1744,male,white,Alive
+STAT1,50.6282,male,Unknown,Alive
+STAT1,33.1824,male,black or african american,Dead
+STAT1,13.593,male,black or african american,Dead
+STAT1,6.8463,male,black or african american,Dead
+STAT1,10.3542,female,white,Dead
+STAT1,29.1271,male,Unknown,Alive
+STAT1,18.6996,male,white,Alive
+STAT1,44.7922,female,white,Alive
+STAT1,22.1722,male,white,Dead
+STAT1,60.8934,male,white,Dead
+STAT1,29.4758,male,white,Alive
+STAT1,47.7422,male,Unknown,Alive
+STAT1,203.9455,male,black or african american,Dead
+STAT1,42.1802,male,white,Dead
+STAT1,119.8023,female,white,Alive
+STAT1,22.9982,male,black or african american,Dead
+STAT1,81.4039,female,white,Dead
+STAT1,64.4143,male,white,Dead
+STAT1,69.3243,male,white,Dead
+STAT1,14.0233,male,Unknown,Alive
+STAT1,15.7863,female,white,Alive
+STAT1,44.805,male,white,Dead
+STAT1,32.2893,female,white,Dead
+STAT1,30.5623,male,white,Alive
+STAT1,29.0068,female,native hawaiian or other pacific islander,Dead
+STAT1,22.0464,male,white,Alive
+STAT1,18.9192,male,white,Alive
+STAT1,31.3693,male,white,Dead
+STAT1,25.2618,male,white,Alive
+STAT1,19.2379,male,white,Alive
+STAT1,7.3218,male,white,Dead
+STAT1,42.2091,male,white,Dead
+STAT1,39.5597,male,white,Alive
+STAT1,40.271,male,black or african american,Alive
+STAT1,167.0754,female,white,Dead
+STAT1,62.3801,female,black or african american,Dead
+STAT1,36.6386,male,black or african american,Alive
+STAT1,30.0588,female,white,Alive
+STAT1,26.5741,male,white,Dead
+STAT1,18.2665,male,white,Dead
+STAT1,17.0694,female,white,Alive
+STAT1,69.905,female,black or african american,Alive
+STAT1,118.3637,male,white,Alive
+STAT1,12.0975,male,white,Alive
+STAT1,21.1574,male,black or african american,Alive
+STAT1,20.8716,female,white,Alive
+STAT1,4.0148,male,white,Alive
+STAT1,75.4468,male,white,Alive
+STAT1,14.2831,male,white,Alive
+STAT1,51.0263,male,white,Alive
+STAT1,44.2657,male,white,Dead
+STAT1,34.7354,female,white,Dead
+STAT1,18.3078,male,white,Alive
+STAT1,32.7164,female,white,Alive
+STAT1,79.7381,male,white,Dead
+STAT1,25.8831,male,black or african american,Dead
+STAT1,36.1961,male,white,Dead
+STAT1,16.4071,male,black or african american,Dead
+STAT1,31.0271,female,white,Alive
+STAT1,12.3722,male,white,Dead
+STAT1,20.9956,female,white,Dead
+STAT1,121.7993,female,white,Dead
+STAT1,38.9071,female,white,Alive
+STAT1,29.1672,male,black or african american,Alive
+STAT1,12.5972,female,white,Dead
+STAT1,25.9678,male,black or african american,Dead
+STAT1,25.656,male,white,Dead
+STAT1,53.7833,female,white,Alive
+STAT1,9.0114,female,white,Alive
+STAT1,103.2989,male,white,Dead
+STAT1,17.7114,female,white,Dead
+STAT1,41.1091,male,white,Dead
+PDCD1LG2,3.5389,female,black or african american,Alive
+PDCD1LG2,2.5582,male,white,Alive
+PDCD1LG2,2.2094,female,white,Alive
+PDCD1LG2,2.1,male,white,Alive
+PDCD1LG2,1.8405,male,Unknown,Alive
+PDCD1LG2,5.5399,female,asian,Alive
+PDCD1LG2,1.5226,female,white,Dead
+PDCD1LG2,2.5821,female,black or african american,Alive
+PDCD1LG2,0.3489,female,white,Alive
+PDCD1LG2,0.5416,female,black or african american,Alive
+PDCD1LG2,0.6443,male,white,Alive
+PDCD1LG2,1.0657,male,black or african american,Dead
+PDCD1LG2,0.5532,male,white,Alive
+PDCD1LG2,5.5248,female,white,Dead
+PDCD1LG2,2.9374,female,white,Dead
+PDCD1LG2,4.0058,female,white,Alive
+PDCD1LG2,9.5539,male,white,Alive
+PDCD1LG2,1.8095,female,black or african american,Dead
+PDCD1LG2,0.6461,female,black or african american,Dead
+PDCD1LG2,0.6191,female,white,Dead
+PDCD1LG2,2.9663,female,white,Dead
+PDCD1LG2,2.7828,female,white,Alive
+PDCD1LG2,1.3774,male,white,Dead
+PDCD1LG2,1.4818,male,Unknown,Alive
+PDCD1LG2,10.2729,female,white,Dead
+PDCD1LG2,1.6436,female,white,Dead
+PDCD1LG2,1.9177,female,white,Dead
+PDCD1LG2,3.7541,male,white,Alive
+PDCD1LG2,3.4346,male,white,Dead
+PDCD1LG2,0.5143,female,Unknown,Alive
+PDCD1LG2,5.4025,female,white,Alive
+PDCD1LG2,0.5851,female,white,Dead
+PDCD1LG2,3.0872,male,white,Dead
+PDCD1LG2,4.168,male,white,Alive
+PDCD1LG2,0.955,male,Unknown,Dead
+PDCD1LG2,0.3787,male,Unknown,Dead
+PDCD1LG2,2.966,male,white,Alive
+PDCD1LG2,2.2332,female,white,Dead
+PDCD1LG2,2.0951,male,black or african american,Dead
+PDCD1LG2,1.2682,male,white,Alive
+PDCD1LG2,4.7811,male,white,Alive
+PDCD1LG2,1.8996,male,Unknown,Alive
+PDCD1LG2,2.2932,male,white,Alive
+PDCD1LG2,0.7995,male,white,Alive
+PDCD1LG2,1.6767,male,white,Dead
+PDCD1LG2,2.8676,female,white,Alive
+PDCD1LG2,1.5294,female,native hawaiian or other pacific islander,Dead
+PDCD1LG2,1.3898,female,Unknown,Dead
+PDCD1LG2,1.4775,male,white,Alive
+PDCD1LG2,2.6707,female,white,Alive
+PDCD1LG2,2.0917,male,white,Dead
+PDCD1LG2,1.7121,male,white,Alive
+PDCD1LG2,1.9876,male,white,Dead
+PDCD1LG2,2.6971,male,black or african american,Dead
+PDCD1LG2,5.2615,female,white,Dead
+PDCD1LG2,0.0678,male,white,Dead
+PDCD1LG2,1.3406,female,white,Alive
+PDCD1LG2,2.0401,female,white,Alive
+PDCD1LG2,0.3372,male,black or african american,Dead
+PDCD1LG2,3.4355,male,white,Dead
+PDCD1LG2,4.2821,male,white,Dead
+PDCD1LG2,3.5773,female,black or african american,Alive
+PDCD1LG2,1.9195,male,white,Dead
+PDCD1LG2,2.7309,female,black or african american,Alive
+PDCD1LG2,1.4915,male,Unknown,Dead
+PDCD1LG2,0.6849,female,white,Dead
+PDCD1LG2,1.0914,female,Unknown,Dead
+PDCD1LG2,3.396,female,white,Alive
+PDCD1LG2,2.6052,male,white,Alive
+PDCD1LG2,2.872,male,white,Dead
+PDCD1LG2,5.625,female,black or african american,Dead
+PDCD1LG2,2.4914,female,white,Dead
+PDCD1LG2,0.6607,female,white,Dead
+PDCD1LG2,3.452,female,Unknown,Dead
+PDCD1LG2,1.5449,female,white,Dead
+PDCD1LG2,2.1378,male,white,Dead
+PDCD1LG2,3.7217,male,white,Alive
+PDCD1LG2,4.44,male,white,Dead
+PDCD1LG2,3.9668,male,white,Dead
+PDCD1LG2,5.3288,male,white,Alive
+PDCD1LG2,3.4578,female,white,Alive
+PDCD1LG2,0.2628,female,white,Dead
+PDCD1LG2,1.3136,male,white,Alive
+PDCD1LG2,5.8426,male,Unknown,Alive
+PDCD1LG2,2.7651,male,black or african american,Dead
+PDCD1LG2,0.8626,male,black or african american,Dead
+PDCD1LG2,0.8926,male,black or african american,Dead
+PDCD1LG2,1.2402,female,white,Dead
+PDCD1LG2,10.0387,male,Unknown,Alive
+PDCD1LG2,1.6733,male,white,Alive
+PDCD1LG2,7.4254,female,white,Alive
+PDCD1LG2,3.0499,male,white,Dead
+PDCD1LG2,7.5014,male,white,Dead
+PDCD1LG2,0.5577,male,white,Alive
+PDCD1LG2,2.2261,male,Unknown,Alive
+PDCD1LG2,15.9769,male,black or african american,Dead
+PDCD1LG2,0.4278,male,white,Dead
+PDCD1LG2,4.7572,female,white,Alive
+PDCD1LG2,2.8829,male,black or african american,Dead
+PDCD1LG2,4.7462,female,white,Dead
+PDCD1LG2,2.8424,male,white,Dead
+PDCD1LG2,6.9082,male,white,Dead
+PDCD1LG2,0.4364,male,Unknown,Alive
+PDCD1LG2,0.7646,female,white,Alive
+PDCD1LG2,1.5036,male,white,Dead
+PDCD1LG2,2.5026,female,white,Dead
+PDCD1LG2,5.1422,male,white,Alive
+PDCD1LG2,1.4954,female,native hawaiian or other pacific islander,Dead
+PDCD1LG2,1.802,male,white,Alive
+PDCD1LG2,2.0925,male,white,Alive
+PDCD1LG2,0.279,male,white,Dead
+PDCD1LG2,3.1502,male,white,Alive
+PDCD1LG2,1.4079,male,white,Alive
+PDCD1LG2,0.3714,male,white,Dead
+PDCD1LG2,4.1766,male,white,Dead
+PDCD1LG2,2.2235,male,white,Alive
+PDCD1LG2,1.7329,male,black or african american,Alive
+PDCD1LG2,5.3179,female,white,Dead
+PDCD1LG2,1.1321,female,black or african american,Dead
+PDCD1LG2,4.8743,male,black or african american,Alive
+PDCD1LG2,3.8673,female,white,Alive
+PDCD1LG2,2.8985,male,white,Dead
+PDCD1LG2,1.827,male,white,Dead
+PDCD1LG2,3.9561,female,white,Alive
+PDCD1LG2,3.2409,female,black or african american,Alive
+PDCD1LG2,1.6938,male,white,Alive
+PDCD1LG2,1.4571,male,white,Alive
+PDCD1LG2,1.6999,male,black or african american,Alive
+PDCD1LG2,2.0735,female,white,Alive
+PDCD1LG2,0.2407,male,white,Alive
+PDCD1LG2,5.6852,male,white,Alive
+PDCD1LG2,0.4989,male,white,Alive
+PDCD1LG2,5.0167,male,white,Alive
+PDCD1LG2,3.1274,male,white,Dead
+PDCD1LG2,7.2051,female,white,Dead
+PDCD1LG2,0.8088,male,white,Alive
+PDCD1LG2,4.9885,female,white,Alive
+PDCD1LG2,2.7824,male,white,Dead
+PDCD1LG2,3.169,male,black or african american,Dead
+PDCD1LG2,1.8881,male,white,Dead
+PDCD1LG2,1.1888,male,black or african american,Dead
+PDCD1LG2,0.3007,female,white,Alive
+PDCD1LG2,0.9573,male,white,Dead
+PDCD1LG2,1.4283,female,white,Dead
+PDCD1LG2,6.065,female,white,Dead
+PDCD1LG2,2.6313,female,white,Alive
+PDCD1LG2,1.1476,male,black or african american,Alive
+PDCD1LG2,1.9928,female,white,Dead
+PDCD1LG2,1.9884,male,black or african american,Dead
+PDCD1LG2,0.6667,male,white,Dead
+PDCD1LG2,4.6702,female,white,Alive
+PDCD1LG2,0.8155,female,white,Alive
+PDCD1LG2,1.5756,male,white,Dead
+PDCD1LG2,1.9922,female,white,Dead
+PDCD1LG2,1.9133,male,white,Dead
+IDO1,6.3687,female,black or african american,Alive
+IDO1,0.043,male,white,Alive
+IDO1,1.1215,female,white,Alive
+IDO1,0.0362,male,white,Alive
+IDO1,0.9411,male,Unknown,Alive
+IDO1,7.6303,female,asian,Alive
+IDO1,3.1192,female,white,Dead
+IDO1,8.1698,female,black or african american,Alive
+IDO1,0.2798,female,white,Alive
+IDO1,0.029,female,black or african american,Alive
+IDO1,0.5615,male,white,Alive
+IDO1,0.0518,male,black or african american,Dead
+IDO1,0.1578,male,white,Alive
+IDO1,9.7951,female,white,Dead
+IDO1,1.2536,female,white,Dead
+IDO1,3.1064,female,white,Alive
+IDO1,2.4009,male,white,Alive
+IDO1,0.9691,female,black or african american,Dead
+IDO1,0.3153,female,black or african american,Dead
+IDO1,1.2951,female,white,Dead
+IDO1,3.4879,female,white,Dead
+IDO1,2.4184,female,white,Alive
+IDO1,0.7803,male,white,Dead
+IDO1,0.0738,male,Unknown,Alive
+IDO1,46.9596,female,white,Dead
+IDO1,0.9423,female,white,Dead
+IDO1,8.9273,female,white,Dead
+IDO1,6.6535,male,white,Alive
+IDO1,1.6107,male,white,Dead
+IDO1,0.518,female,Unknown,Alive
+IDO1,1.8385,female,white,Alive
+IDO1,0.51,female,white,Dead
+IDO1,0.1097,male,white,Dead
+IDO1,6.6499,male,white,Alive
+IDO1,9.9393,male,Unknown,Dead
+IDO1,0,male,Unknown,Dead
+IDO1,0.7238,male,white,Alive
+IDO1,4.624,female,white,Dead
+IDO1,0.6688,male,black or african american,Dead
+IDO1,0.8162,male,white,Alive
+IDO1,2.2938,male,white,Alive
+IDO1,0.7753,male,Unknown,Alive
+IDO1,3.4296,male,white,Alive
+IDO1,0.0664,male,white,Alive
+IDO1,3.3592,male,white,Dead
+IDO1,4.6748,female,white,Alive
+IDO1,8.5598,female,native hawaiian or other pacific islander,Dead
+IDO1,4.7875,female,Unknown,Dead
+IDO1,0.4767,male,white,Alive
+IDO1,19.2217,female,white,Alive
+IDO1,0.4456,male,white,Dead
+IDO1,1.3927,male,white,Alive
+IDO1,4.5013,male,white,Dead
+IDO1,10.0845,male,black or african american,Dead
+IDO1,2.5333,female,white,Dead
+IDO1,0.0158,male,white,Dead
+IDO1,1.0149,female,white,Alive
+IDO1,0.462,female,white,Alive
+IDO1,1.4254,male,black or african american,Dead
+IDO1,1.1817,male,white,Dead
+IDO1,10.5601,male,white,Dead
+IDO1,1.6678,female,black or african american,Alive
+IDO1,0.1016,male,white,Dead
+IDO1,0.1002,female,black or african american,Alive
+IDO1,0.326,male,Unknown,Dead
+IDO1,1.5211,female,white,Dead
+IDO1,2.4969,female,Unknown,Dead
+IDO1,8.6366,female,white,Alive
+IDO1,1.9174,male,white,Alive
+IDO1,0.6959,male,white,Dead
+IDO1,5.2486,female,black or african american,Dead
+IDO1,1.4446,female,white,Dead
+IDO1,0.2303,female,white,Dead
+IDO1,4.0152,female,Unknown,Dead
+IDO1,0.6155,female,white,Dead
+IDO1,5.2326,male,white,Dead
+IDO1,14.5967,male,white,Alive
+IDO1,9.986,male,white,Dead
+IDO1,0.598,male,white,Dead
+IDO1,10.9221,male,white,Alive
+IDO1,3.3393,female,white,Alive
+IDO1,0.0611,female,white,Dead
+IDO1,0.5266,male,white,Alive
+IDO1,3.2244,male,Unknown,Alive
+IDO1,2.6142,male,black or african american,Dead
+IDO1,0.0839,male,black or african american,Dead
+IDO1,1.2058,male,black or african american,Dead
+IDO1,3.0615,female,white,Dead
+IDO1,3.7181,male,Unknown,Alive
+IDO1,2.1668,male,white,Alive
+IDO1,2.9737,female,white,Alive
+IDO1,2.5146,male,white,Dead
+IDO1,1.8222,male,white,Dead
+IDO1,0.1389,male,white,Alive
+IDO1,8.9854,male,Unknown,Alive
+IDO1,27.5843,male,black or african american,Dead
+IDO1,0.0852,male,white,Dead
+IDO1,27.7342,female,white,Alive
+IDO1,2.3497,male,black or african american,Dead
+IDO1,3.8716,female,white,Dead
+IDO1,12.8159,male,white,Dead
+IDO1,2.49,male,white,Dead
+IDO1,0.2898,male,Unknown,Alive
+IDO1,0.0646,female,white,Alive
+IDO1,6.6075,male,white,Dead
+IDO1,1.9416,female,white,Dead
+IDO1,1.7541,male,white,Alive
+IDO1,0.4055,female,native hawaiian or other pacific islander,Dead
+IDO1,1.5621,male,white,Alive
+IDO1,1.4992,male,white,Alive
+IDO1,2.8121,male,white,Dead
+IDO1,1.6896,male,white,Alive
+IDO1,6.2084,male,white,Alive
+IDO1,0.0173,male,white,Dead
+IDO1,0.9461,male,white,Dead
+IDO1,49.2427,male,white,Alive
+IDO1,8.1743,male,black or african american,Alive
+IDO1,5.0964,female,white,Dead
+IDO1,1.2706,female,black or african american,Dead
+IDO1,2.7021,male,black or african american,Alive
+IDO1,17.0592,female,white,Alive
+IDO1,13.268,male,white,Dead
+IDO1,5.9634,male,white,Dead
+IDO1,0.6183,female,white,Alive
+IDO1,0.5972,female,black or african american,Alive
+IDO1,0.6543,male,white,Alive
+IDO1,0.5028,male,white,Alive
+IDO1,0.739,male,black or african american,Alive
+IDO1,1.7168,female,white,Alive
+IDO1,0.0559,male,white,Alive
+IDO1,10.1246,male,white,Alive
+IDO1,0.0497,male,white,Alive
+IDO1,7.7842,male,white,Alive
+IDO1,1.1377,male,white,Dead
+IDO1,11.3521,female,white,Dead
+IDO1,1.1631,male,white,Alive
+IDO1,8.4668,female,white,Alive
+IDO1,1.4319,male,white,Dead
+IDO1,0.287,male,black or african american,Dead
+IDO1,1.75,male,white,Dead
+IDO1,1.3231,male,black or african american,Dead
+IDO1,0.7129,female,white,Alive
+IDO1,1.2281,male,white,Dead
+IDO1,0.5323,female,white,Dead
+IDO1,8.8715,female,white,Dead
+IDO1,3.5348,female,white,Alive
+IDO1,0.0681,male,black or african american,Alive
+IDO1,0.5354,female,white,Dead
+IDO1,1.0145,male,black or african american,Dead
+IDO1,1.7954,male,white,Dead
+IDO1,11.9135,female,white,Alive
+IDO1,1.5433,female,white,Alive
+IDO1,0.1521,male,white,Dead
+IDO1,0.8599,female,white,Dead
+IDO1,15.3704,male,white,Dead
